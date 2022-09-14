@@ -11,12 +11,13 @@ Asian (720p),http://cdn.adultiptv.net/asian.m3u8
 Babes tv,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6172/index.m3u8
 Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
 Bang Bros,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6173/index.m3u8
+Barely Legal,https://plbl.m9.lfstrm.tv/barely_legal/normal/1/index.m3u8
+Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
 Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
-BigAss,http://live.redtraffic.xyz/bigass.m3u8
 BigAss,http://live.redtraffic.xyz:80/bigass.m3u8
-BigDick,http://live.redtraffic.xyz/bigdick.m3u8
 BigDick,http://live.redtraffic.xyz:80/bigdick.m3u8
 BigDick,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
 bigtits,http://live.redtraffic.xyz:80/bigtits.m3u8
@@ -25,7 +26,6 @@ Blacked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6178/index.m3u8
 Blonde,http://live.redtraffic.xyz/blonde.m3u8
 Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv??hls
 Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
-Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
 Blowjob,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
 Blowjob,http://live.redtraffic.xyz:80/blowjob.m3u8
 Blowjob (720p),http://cdn.adultiptv.net/blowjob.m3u8
@@ -39,7 +39,6 @@ Compilation (720p),http://cdn.adultiptv.net/compilation.m3u8
 CTCHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
 CTCLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
 cuckold,http://live.redtraffic.xyz:80/cuckold.m3u8
-Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
 Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
 Digital Playground,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6196/index.m3u8
 Dorcel,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
@@ -49,7 +48,6 @@ EroxHD,http://94.229.250.73:8008/play/a002
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
 Fake Taxi,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6202/index.m3u8
 fetish,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-Fetish,http://live.redtraffic.xyz/fetish.m3u8
 Fetish,http://live.redtraffic.xyz:80/fetish.m3u8
 Fetish (720p),http://cdn.adultiptv.net/fetish.m3u8
 France Lover,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12124/index.m3u8
@@ -57,25 +55,23 @@ Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
 Gangbang (720p),http://cdn.adultiptv.net/gangbang.m3u8
 Gay,http://live.redtraffic.xyz/gay.m3u8
 Gay (720p),http://cdn.adultiptv.net/gay.m3u8
-HardCore,http://live.redtraffic.xyz/hardcore.m3u8
 HardCore,http://live.redtraffic.xyz:80/hardcore.m3u8
 Hardcore (720p),http://cdn.adultiptv.net/hardcore.m3u8
 Hustler,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/244/index.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
 interracial,http://live.redtraffic.xyz:80/interracial.m3u8
-Interracial,http://live.redtraffic.xyz/interracial.m3u8
 Interracial (720p),http://cdn.adultiptv.net/interracial.m3u8
 jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 JAV,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6225/index.m3u8
 KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
 latina,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-Latina,http://live.redtraffic.xyz/latina.m3u8
-Latina (720p),http://cdn.adultiptv.net/latina.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
 lesbian,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Lesbian (720p),http://cdn.adultiptv.net/lesbian.m3u8
-Live Cams (720p),http://cdn.adultiptv.net/livecams.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 LiveCams,http://live.redtraffic.xyz/livecams.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
 Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 Miami TV Mexico (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
@@ -83,7 +79,6 @@ MiamiTVJennyForYou,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/
 Midnight (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 milf,http://live.redtraffic.xyz:80/milf.m3u8
 milf,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-MILF,http://live.redtraffic.xyz/milf.m3u8
 MILF (720p),http://cdn.adultiptv.net/milf.m3u8
 Mommy,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12155/index.m3u8
 MyCamTV Anal,http://live.mycamtv.com/anal.m3u8
@@ -107,42 +102,52 @@ MyCamTV Young Girls,http://live.mycamtv.com/young.m3u8
 Naughty America,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6237/index.m3u8
 Nubile,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6238/index.m3u8
 OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
+Penthouse,http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 Penthouse Gold,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5011/index.m3u8
 Penthouse Quicker,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/5012/index.m3u8
 PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
 PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
 PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
+Playboy TV 18+,https://plbl.m9.lfstrm.tv/playboy/normal/1/index.m3u8
 Playboy TV Korea (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 pornstar,http://live.redtraffic.xyz:80/pornstar.m3u8
 pornstar,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
 Pornstar (720p),http://cdn.adultiptv.net/pornstar.m3u8
-POV,http://live.redtraffic.xyz/pov.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
 POV,http://live.redtraffic.xyz:80/pov.m3u8
 POV,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-POV (720p),http://cdn.adultiptv.net/pov.m3u8
 Private,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/243/index.m3u8
 PrivaTe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6245/index.m3u8
 Pure Babes,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12112/index.m3u8
 Reality King,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6249/index.m3u8
 RedLight,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/242/index.m3u8
 RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
+RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
+RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
+RedTraffic Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
+RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
+RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
+RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
+RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
+RedTraffic POV,http://live.redtraffic.xyz/pov.m3u8
+RedTraffic Teen,http://live.redtraffic.xyz/teen.m3u8
+RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
 Rough,http://live.redtraffic.xyz/rough.m3u8
-Rough (720p),http://cdn.adultiptv.net/rough.m3u8
 Russia,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/147/index.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
 Russian,http://live.redtraffic.xyz/russian.m3u8
 Russian,http://live.redtraffic.xyz:80/russian.m3u8
-Russian (720p),http://cdn.adultiptv.net/russian.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
 teen,http://live.redtraffic.xyz:80/teen.m3u8
-Teen,http://live.redtraffic.xyz/teen.m3u8
-Teen (720p),http://cdn.adultiptv.net/teen.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
 threesome,http://live.redtraffic.xyz:80/threesome.m3u8
-Threesome,http://live.redtraffic.xyz/threesome.m3u8
 Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
 THTHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
 Viki (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
+Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 Visit-XTV,https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 Vivid Red,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/2162/index.m3u8
 Wicked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6268/index.m3u8
@@ -174,6 +179,8 @@ XXX Threesome,http://cdn.redtraffic.net/threesome.m3u8
 XY Max,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u8
 XY Mix,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
 XY Plus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
+Русская ночь 18+,https://plbl.m9.lfstrm.tv/russkaya_noch/normal/1/index.m3u8
+Шалун ТВ,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
 
 
 
