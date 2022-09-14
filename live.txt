@@ -179,8 +179,8 @@ XXX Threesome,http://cdn.redtraffic.net/threesome.m3u8
 XY Max,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u8
 XY Mix,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
 XY Plus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
-Русская ночь 18+,https://plbl.m9.lfstrm.tv/russkaya_noch/normal/1/index.m3u8
-Шалун ТВ,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
+russkaya_noch,https://plbl.m9.lfstrm.tv/russkaya_noch/normal/1/index.m3u8
+shalun_hd,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
 
 
 
