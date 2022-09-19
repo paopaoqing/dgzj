@@ -14,6 +14,7 @@ Bang Bros,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6173/index.m3u8
 Barely Legal,https://plbl.m9.lfstrm.tv/barely_legal/normal/1/index.m3u8
 Big Ass,http://live.redtraffic.xyz/bigass.m3u8
 Big Ass (720p),http://cdn.adultiptv.net/bigass.m3u8
+bigass,http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
 Big Dick,http://live.redtraffic.xyz/bigdick.m3u8
 Big Dick (720p),http://cdn.adultiptv.net/bigdick.m3u8
 Big Tits (720p),http://cdn.adultiptv.net/bigtits.m3u8
@@ -24,6 +25,7 @@ bigtits,http://live.redtraffic.xyz:80/bigtits.m3u8
 BigTits,http://live.redtraffic.xyz/bigtits.m3u8
 Blacked,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6178/index.m3u8
 Blonde,http://live.redtraffic.xyz/blonde.m3u8
+blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
 Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv??hls
 Blonde (720p),http://cdn.adultiptv.net/blonde.m3u8
 Blowjob,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
@@ -43,6 +45,7 @@ Cuckold (720p),http://cdn.adultiptv.net/cuckold.m3u8
 Digital Playground,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6196/index.m3u8
 Dorcel,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/245/index.m3u8
 Dorcrl Club,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6197/index.m3u8
+Dorcel TV HD,http://212.18.115.193:3169/play/a007/index.m3u8
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 EroxHD,http://94.229.250.73:8008/play/a002
 EvilAngel,http://212.18.115.193:3169/play/ftv/index.m3u8
@@ -145,6 +148,7 @@ teen,http://live.redtraffic.xyz:80/teen.m3u8
 Teen,http://cdn.adultiptv.net/teen.m3u8
 threesome,http://live.redtraffic.xyz:80/threesome.m3u8
 Threesome (720p),http://cdn.adultiptv.net/threesome.m3u8
+threesome,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 THTHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
 Viki (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
 Visit-X TV,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
@@ -179,11 +183,12 @@ XXX Threesome,http://cdn.redtraffic.net/threesome.m3u8
 XY Max,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u8
 XY Mix,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
 XY Plus,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
-russkaya_noch,https://plbl.m9.lfstrm.tv/russkaya_noch/normal/1/index.m3u8
-shalun_hd,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
+Русская ночь 18+,https://plbl.m9.lfstrm.tv/russkaya_noch/normal/1/index.m3u8
+Шалун ТВ,https://plbl.m9.lfstrm.tv/shalun_hd/normal/index.m3u8
 
 
 vod,#genre#
+
 1,http://nvid101.cdnii.com/2018/1/20181745-720p.mp4
 1-1,https://ovhv47.twincdn.com/videos/31/31930/31930_720p.mp4
 2,http://nvid101.cdnii.com/2018/1/20181741-720p.mp4
@@ -1083,6 +1088,15 @@ SModel175初彼女！華城まや,http://videocdn.quweikm.com:8091/20180930/hd_c
 SModel174顔面愛乃まほろ,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-081817_001/index.m3u8
 SModel176中毒美少女生水島にな,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-082517_001/index.m3u8
 Caribbeancompr-090117_002超高級嬢！生島涼,http://videocdn.quweikm.com:8091/20180930/hd_caribbeancompr-090117_002/index.m3u8
+caribbean-113012-197,http://video1.rhsj520.com:8091/nyrm3/20180105/3/113012-197/1500kb/hls/index.m3u8
+Caribbean-082512-112,https://video1.rhsj520.com:8091/nyrm3/jlb201902/082512-112/1500kb/hls/index.m3u8
+Caribbean-050514-596,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/jlb/050514-596/index.m3u8
+Caribbean-013011-605 進藤みか,http://video1.rhsj520.com:8091/nyrm3/jlb-03-02/013011-605/1500kb/hls/index.m3u8
+Caribbean-060912-044 永沢まおみ,https://videozmcdn.stz8.com:8091/20191107/5utktPWs/1000kb/hls/index.m3u8
+Caribbean-040212-983 倉木みお,https://videozmcdn.stz8.com:8091/20191107/rI4M8hYJ/1000kb/hls/index.m3u8
+Caribbean-032112-973 櫻井ともか,http://videozmcdn.stz8.com:8091/20191107/1uk4nFCd/1000kb/hls/index.m3u8
+
+
 
 heyzo,#genre#
 HEYZO720P50部,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1942_full/1500kb/hls/index.m3u8
@@ -1109,6 +1123,11 @@ HEYZO720P49,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1951_full/1500kb/hls/
 HEYZO-1897 混血巨乳风俗美女仲村纱梨的服务,https://v.didivod.com/20220817/oRaM5dEn/index.m3u8
 HEYZO 1530 我的肉穴狂洩不止～床上的大洪水～ – 橘优奈,https://v.didivod.com/20220817/8BQLHNkF/index.m3u8
 HEYZO 1759 捆绑高潮！ – 梦咲かのん,https://v.didivod.com/20220817/0dEtvh0F/index.m3u8
+HEYZO-0444 愛乃なみ,http://video1.rhsj520.com:8091/nyrm3/heyzo337/heyzo_hd_0444_full/1500kb/hls/index.m3u8
+HEYZO-1696 村上佳苗,http://ginocdn.bybzj.com:8091/wuma/20180501/hd_heyzo-1696/650kb/hls/index.m3u8
+HEYZO-1866 渡辺恵子,http://video1.rhsj520.com:8091/nyrm3/heyzo-03/1/HEYZO-1866/1500kb/hls/index.m3u8
+HEYZO-1838 柴田さつき,http://video1.rhsj520.com:8091/nyrm3/heyzo-03/1/HEYZO-1838/1500kb/hls/index.m3u8
+HEYZO-0288,http://video1.rhsj520.com:8091/nyrm3/heyzo222/heyzo_hd_0288_full/1500kb/hls/index.m3u8
 
 
 东京热,#genre#
@@ -1166,7 +1185,12 @@ HEYZO 1759 捆绑高潮！ – 梦咲かのん,https://v.didivod.com/20220817/0d
 一本道,https://vip4.ddyunbo.com/20210208/6LaKp6lZ/index.m3u8
 咲乃柑菜,https://d2gwumourdj5u6.cloudfront.net/20181101/hd_1pondo-081317_566/index.m3u8
 真野ゆりあ,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/3/1pon-100315_165/index.m3u8
-
+1pondo-101216_403 蒼井さくら,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181201/1db/101216_403/index.m3u8
+1pondo-120815_203 三浦春佳,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/4/1pon-120815_203/index.m3u8
+1pondo-102215_184 上原亜衣,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/5/102215_184-1pon/index.m3u8
+1pondo-092716_392 鈴羽みう,http://videocdnbaidu.rhsj520.com/rbny/20181005/ybd/092716_392/index.m3u8
+022712-953 極上泡姫物語 Vol.15,https://videozmcdn.stz8.com:8091/20191107/vLVAcbFj/1000kb/hls/index.m3u8
+メス豚 140616_807_01,http://videocdn2.quweikm.com:8091/20180730/mesubuta_140616_807_01/index.m3u8
 
 
 无码,#genre#
@@ -1250,6 +1274,85 @@ CEAD-050-人妻美熟女の人生-高倉梨奈,http://ginocdn.bybzj.com:8091/zim
 CEAD-254c-極上射精君島みお,http://ginocdn.bybzj.com:8091/20180601/Bg6CgVmG/index.m3u8
 SET-009c僕生中出人妻 篠田??,http://videocdn.quweikm.com:8091/20180730/SET-009c/index.m3u8
 SERO-0205c拔14發中出_武井麻希,http://videocdn.quweikm.com:8091/20180730/SERO-0205c/index.m3u8
+HND-513 河南実里,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/HND-513/index.m3u8
+DXMG-027 波多野結衣,http://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/DXMG-027/index.m3u8
+PPPD-504 JULIA,http://videocdnbaidu.rhsj520.com/rbny/20180806/jx/PPPD-504/index.m3u8
+WANZ-297 麻倉憂,http://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-297/index.m3u8
+RCT-505,http://videocdnbaidu.rhsj520.com/rbny/20180821/lmyly/RCT-505/index.m3u8
+MIDE-334 神咲詩織,http://videocdnbaidu.rhsj520.com/rbny/20181005/sgsz/MIDE-334/index.m3u8
+PPPD-304 JULIA,http://videocdnbaidu.rhsj520.com/rbny/20180806/jx/PPPD-304/index.m3u8
+WANZ-135 桜井あゆ,http://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/WANZ-135/index.m3u8
+DVDMS-329-2,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/dvdms-329-2/index.m3u8
+IPTD-535 松島かえで,http://videocdnbaidu.rhsj520.com/rbny/20180821/sdf/IPTD-535/index.m3u8
+HUNTA-200B,http://ginocdn.bybzj.com:8091/youma/20180401/HUNTA-200B/650kb/hls/index.m3u8
+SSNI-396 星宮一花,http://video1.rhsj520.com:8091/nyrm3/snis/2/ssni-396/1500kb/hls/index.m3u8
+KAWD-893 小栗もなか,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/2/KAWD-893/index.m3u8
+DMBJ-059 桜井あゆ,http://videocdnbaidu.rhsj520.com/rbny/20181005/yjb/DMBJ-059/index.m3u8
+VENU-458,http://videocdnbaidu.rhsj520.com/rbny/20180901/tgyly/VENU-458/index.m3u8
+MXBD-221 吉沢明歩,http://videocdnbaidu.rhsj520.com/rbny/20180812/jzmb/MXBD-221/index.m3u8
+MIAE-185 美谷朱里,http://videocdn.dlyilian.com:8091/20190527/MIAE-185_FHD_CH/index.m3u8
+IANF-027 石原ルリカ,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/7/IANF-027/index.m3u8
+MXGS-1057 大槻ひびき,http://videocdnbaidu.rhsj520.com/rbny/20180915/dgx/MXGS-1057/index.m3u8
+APKH-005 あおいれな,http://ginocdn.bybzj.com:8091/youma/20180401/APKH-005/650kb/hls/index.m3u8
+ABP-464 北野のぞみ,http://ginocdn.bybzj.com:8091/youma/20180401/ABP-464/650kb/hls/index.m3u8
+VENU-657 佐々木あき,http://ginocdn.bybzj.com:8091/youma/20180501/VENU-657/650kb/hls/index.m3u8
+SNIS-255 小島みなみ,http://video1.rhsj520.com:8091/nyrm3/snis/6/SNIS-255/1500kb/hls/index.m3u8
+WANZ-281 麻倉憂,http://videocdnbaidu.rhsj520.com/rbny/20180807/mcy/WANZ-281/index.m3u8
+CEAD-054 宮部涼花,http://video1.feimanzb.com:8091/20180115/CEAD-054-C/550kb/hls/index.m3u8
+SNIS-268 藍沢潤,http://videocdnbaidu.rhsj520.com/rbny/20180804/_/LCR/SNIS-268/index.m3u8
+RBD-541 籠城5 西野翔 妃乃ひかり 浅野唯,http://videocdnbaidu.rhsj520.com/rbny/20180811/xyx/RBD-541/index.m3u8
+SERO-364,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/SERO-364/index.m3u8
+SNIS-418 星野ナミ,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/1/SNIS-418/index.m3u8
+HND-602 篠田ゆう,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/3/hnd-602/index.m3u8
+VRTM-350,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/xzly/VRTM-350/index.m3u8
+MDB-678,http://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/MDB-678/index.m3u8
+GVG-391 蓮実クレア,http://videocdn.quweikm.com:8091/20180830/GVG-391/index.m3u8
+HND-648 黒崎みか,http://videocdn.dlyilian.com:8091/20190520/HND-648_CH_SD/index.m3u8
+OFJE-171,http://video1.rhsj520.com:8091/nyrm3/snis/2/OFJE-171B/1500kb/hls/index.m3u8
+HMD-02,http://ginocdn.bybzj.com:8091/youma/20180401/HMD-02A/650kb/hls/index.m3u8
+Real_diva-9594,http://videocdn.dlyilian.com:8091/20190105/hd_real_diva-9594/index.m3u8
+IPZ-489 Rio,http://videocdnbaidu.rhsj520.com/rbny/20180806/ymtn/IPZ-489/1/index.m3u8
+MEYD-277 通野未帆,http://video.feimanzb.com:8091/20180310/DKE5PRY277/650kb/hls/index.m3u8
+YST-119 宮藤尚美,http://video2.feimanzb.com:8091/20180220/TKS1HLE119/650kb/hls/index.m3u8
+HUNTA-344,http://video.feimanzb.com:8091/20180301/AJZ5FHY344/650kb/hls/index.m3u8
+HENK-004 小早川怜子,http://videocdn2.quweikm.com:8091/20181201/HRJUK8DV004/index.m3u8
+HOMA-049 有坂深雪,http://videocdn.dlyilian.com:8091/20190401/HO86KUI049/index.m3u8
+ATID-304 富田優衣,http://videocdn.dlyilian.com:8091/20181231/AQGKR0L304/index.m3u8
+DANDY-612,http://videocdn2.quweikm.com:8091/20181131/DAZW1KG612/index.m3u8
+TEM-017,http://videocdn2.quweikm.com:8091/20180801/TJB9TNH017/index.m3u8
+SW-607,http://videocdn.dlyilian.com:8091/20190603/SW2RJYF607/index.m3u8
+DVDMS-351,http://videocdn.dlyilian.com:8091/20190301/DVDEGHFG351-A/index.m3u8
+HND-602 篠田ゆう,http://videocdn.dlyilian.com:8091/20190301/HN1RTQDF602/index.m3u8
+MXGS-1078 吉沢明歩,http://videocdn.dlyilian.com:8091/20190401/GS6UIDW1078/index.m3u8
+SSNI-409 三上悠亜,http://videocdn.dlyilian.com:8091/20190618/SS1QHRT409/index.m3u8
+MCB-13 一条リオン,http://video1.feimanzb.com:8091/20180205/BRET8JOK13/650kb/hls/index.m3u8
+MEYD-452 大浦真奈美,http://videocdn.dlyilian.com:8091/20190301/ME3UIGF452/index.m3u8
+金8天国 1762,https://videocdn.quweikm.com:8091/20180831/hd_kin8tengoku-1762/index.m3u8
+天然素人060117_01 千葉かれん,http://video1.feimanzb.com:8091/20180205/MBVO3WRL060117/650kb/hls/index.m3u8
+FAA-279,http://videocdn.dlyilian.com:8091/20190401/FAI7GFN279/index.m3u8
+NGOD-069 小野寺梨紗,http://videocdn.dlyilian.com:8091/20190101/NBRK0IQ069/index.m3u8
+VENU-765 美谷朱里,http://videocdn2.quweikm.com:8091/20180801/VJK0TRW765/index.m3u8
+HND-448 麻里梨夏,http://video.feimanzb.com:8091/20180401/HJO1TRQ448/650kb/hls/index.m3u8
+SMS-076 牛込純菜,https://videocdn.quweikm.com:8091/20180830/SMS-076/index.m3u8
+MIAA-005 波多野結衣 佐々木あき,http://videocdn.dlyilian.com:8091/20190527/MI8JRYW005/index.m3u8
+TIKB-020 霧島さくら,http://videocdnbaidu.rhsj520.com/2/rnmy2/20181212/loo/TIKB-020/index.m3u8
+BBAN-132,http://videocdnbaidu.rhsj520.com/rbny/20180804/_/AIKA/BBAN-132.mp4/index.m3u8
+DVDMS-148,http://video2.feimanzb.com:8091/20180220/SJK4ORJY148/650kb/hls/index.m3u8
+NTR-060 吉川あいみ,http://video2.feimanzb.com:8091/20180420/ROE7HJK060/650kb/hls/index.m3u8
+NTRD-050 板垣あずさ,http://videocdn.quweikm.com:8091/20180830/NTRD-050/index.m3u8
+DOJU-085,http://videocdn2.quweikm.com:8091/20180801/UJE4GR085/index.m3u8
+UGUG-108,http://ginocdn.bybzj.com:8091/youma/20180501/UGUG-108B/650kb/hls/index.m3u8
+FONE-005,http://videocdn2.quweikm.com:8091/20181201/FQOL8EGF005/index.m3u8
+YST-130 岸川真衣,http://videocdn.dlyilian.com:8091/20190101/YKL2RNY130/index.m3u8
+ANX-054 波多野結衣,http://videocdnbaidu.rhsj520.com/rbny/20180915/bdyjy/ANX-054/index.m3u8
+GUFU-01 久保田真実,http://videocdn2.quweikm.com:8091/20180801/UHR8KW01/index.m3u8
+MEYD-404 織田真子,http://videocdn.dlyilian.com:8091/20181231/MQ8OEKIL404/index.m3u8
+VEC-272 風間ゆみ,http://video.feimanzb.com:8091/20180301/CJK5EGT272/650kb/hls/index.m3u8
+OFJE-171,https://video1.rhsj520.com:8091/nyrm3/snis/2/OFJE-171C/1500kb/hls/index.m3u8
+SDDE-564 山口菜穂,http://videocdn.dlyilian.com:8091/20190331/SD5TUJGH564/index.m3u8
+MKD-S94 波多野結衣,http://videocdn2.quweikm.com:8091/20181115/MBIE2TO94/index.m3u8
+SSNI-360 葵,http://videocdn.dlyilian.com:8091/20190401/SS4YUHB360/index.m3u8
+
 
 未知,#genre#
 2018,https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
@@ -1592,3 +1695,137 @@ Best30Part3,http://videocdn.quweikm.com:8091/20181101/hd_10musume-081617_01/inde
 43:56-超颜值大长腿少妇 极品推荐,https://ss.rongliren.com/api/video/m3u8?id=11886&admin=1
 17:44-约操 有夫少妇 极品大奶,https://ss.rongliren.com/api/video/m3u8?id=11885&admin=1
 20:36-勾搭良家少女下海,https://ss.rongliren.com/api/video/m3u8?id=11884&admin=1
+
+麻豆精东,#genre#
+麻豆传媒01,https://1xp60.cdnedge.live/file/avple-images/hls/62bd8531d0fa6a48496bbf5a/playlist.m3u8
+麻豆传媒02,https://w9n76.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+麻豆传媒03,https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
+麻豆传媒04,https://8bb88.cdnedge.live/file/avple-images/hls/62bbf3efea3d425e0a93b7a9/playlist.m3u8
+麻豆传媒05,https://je40u.cdnedge.live/file/avple-images/hls/62bbf592ea3d425e0a93b7ad/playlist.m3u8
+麻豆传媒06,https://w9n76.cdnedge.live/file/avple-images/hls/62bbf51aea3d425e0a93b7ab/playlist.m3u8
+麻豆传媒07,https://zo392.cdnedge.live/file/avple-images/hls/62bbf556ea3d425e0a93b7ac/playlist.m3u8
+麻豆传媒08,https://d862cp.cdnedge.live/file/avple-images/hls/62c5a49136c38433078a694d/playlist.m3u8
+麻豆传媒09,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694b/playlist.m3u8
+麻豆传媒10,https://u89ey.cdnedge.live/file/avple-images/hls/62c596ee36c38433078a694c/playlist.m3u8
+麻豆传媒11,https://u89ey.cdnedge.live/file/avple-images/hls/62c592b936c38433078a694a/playlist.m3u8
+麻豆传媒12,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
+麻豆传媒13,https://8bb88.cdnedge.live/file/avple-images/hls/62c5a50a36c38433078a694e/playlist.m3u8
+麻豆传媒14,https://8bb88.cdnedge.live/file/avple-images/hls/62c440c8366b240e3b67be31/playlist.m3u8
+麻豆传媒15,https://e2fa6.cdnedge.live/file/avple-images/hls/62c4408b366b240e3b67be30/playlist.m3u8
+麻豆传媒16,https://u89ey.cdnedge.live/file/avple-images/hls/62c168c8b70f0f5e88542c50/playlist.m3u8
+麻豆传媒17,https://8bb88.cdnedge.live/file/avple-images/hls/62bd8968d0fa6a48496bbf61/playlist.m3u8
+麻豆传媒18,https://d862cp.cdnedge.live/file/avple-images/hls/62bd883dd0fa6a48496bbf5d/playlist.m3u8
+麻豆传媒19,https://10j99.cdnedge.live/file/avple-images/hls/62bd8879d0fa6a48496bbf5e/playlist.m3u8
+麻豆传媒20,https://q2cyl7.cdnedge.live/file/avple-images/hls/62bd8710d0fa6a48496bbf5b/playlist.m3u8
+麻豆传媒21,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
+麻豆传媒22,https://u89ey.cdnedge.live/file/avple-images/hls/62c448bd366b240e3b67be3b/playlist.m3u8
+麻豆传媒23,https://10j99.cdnedge.live/file/avple-images/hls/62c44575366b240e3b67be3a/playlist.m3u8
+麻豆传媒25,https://u89ey.cdnedge.live/file/avple-images/hls/62c43a3c366b240e3b67be27/playlist.m3u8
+麻豆传媒26,https://8bb88.cdnedge.live/file/avple-images/hls/62c44c81366b240e3b67be3c/playlist.m3u8
+麻豆传媒27,https://e2fa6.cdnedge.live/file/avple-images/hls/62c44485366b240e3b67be38/playlist.m3u8
+麻豆传媒28,https://je40u.cdnedge.live/file/avple-images/hls/62c43af1366b240e3b67be29/playlist.m3u8
+麻豆传媒29,https://je40u.cdnedge.live/file/avple-images/hls/62c4426c366b240e3b67be34/playlist.m3u8
+麻豆传媒30,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c44231366b240e3b67be33/playlist.m3u8
+麻豆传媒31,https://u89ey.cdnedge.live/file/avple-images/hls/62c4413f366b240e3b67be32/playlist.m3u8
+麻豆传媒32,https://zo392.cdnedge.live/file/avple-images/hls/62bd88f0d0fa6a48496bbf60/playlist.m3u8
+麻豆传媒33,https://je40u.cdnedge.live/file/avple-images/hls/62bd88b4d0fa6a48496bbf5f/playlist.m3u8
+麻豆传媒34,https://1xp60.cdnedge.live/file/avple-images/hls/62bd878ad0fa6a48496bbf5c/playlist.m3u8
+麻豆传媒35,https://je40u.cdnedge.live/file/avple-images/hls/62bd84f5d0fa6a48496bbf59/playlist.m3u8
+果冻传媒租房交易-刘玥,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/4c4fd782/index.m3u8
+果冻传媒童顔女秘堕落日记-谢语彤,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed16b849/index.m3u8
+大学的性福生活-周卿卿,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/83fec728/index.m3u8
+天美传媒风骚中介的特别销售-落落,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/6acb23d5/index.m3u8
+天美传媒极品骚护士-张雅婷,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/cd992b87/index.m3u8
+精东影业东北往事之白虎,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/98c5d218/index.m3u8
+皇家华人之暗黑职场领导侵犯爱尽委屈,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/6e31fa9b/index.m3u8
+星空传媒死亡微信之夺命的高潮-奈奈子,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/59bc178b/index.m3u8
+课后性爱辅导-郭童童,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/67f71d77/index.m3u8
+你好同学AV篇两女两男强制4P性爱关卡,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/4a0ef7c0/index.m3u8
+你好同学节目篇刺激下体的大地游戏,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/09c612e3/index.m3u8
+直播激情春宫秀-白靖寒,https://t11.cdn2020.com:12336/video/m3u8/2021/09/27/d7a59da3/index.m3u8
+国产007之无奸道,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/28947f02/index.m3u8
+放假后的课题研究老师以身授课肉棒传教,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/d61b1a5c/index.m3u8
+旅行VLOG-快乐源于有他,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/ff36aaf1/index.m3u8
+粉丝的神秘礼物,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/1ef736b7/index.m3u8
+人妻换装变身女仆超美性爱,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/2c87a188/index.m3u8
+姐姐成为我的性爱导师,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/66174765/index.m3u8
+MDX-0136诱惑忍耐大挑战-凌薇,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/6c732652/index.m3u8
+PsychopornTW日本女孩被双管齐下,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/9a388070/index.m3u8
+OL误上痴汉地铁-吴梦梦,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/8d28e964/index.m3u8
+星空传媒我的老婆是大佬1-琪琪,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/bbaaf945/index.m3u8
+精东影业上错花轿嫁对郎,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/1bee93b7/index.m3u8
+果冻传媒童顔少女AV志愿-陈悠悠,https://t11.cdn2020.com:12336/video/m3u8/2021/09/28/12b502eb/index.m3u8
+街头勾引行人直播做爱,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/17142457/index.m3u8
+广西表妹做客表哥家,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/eb99e102/index.m3u8
+内射大二学妹,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/5f7c73e2/index.m3u8
+极品小姐姐自慰秀,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/795ea06d/index.m3u8
+Cosplay斗罗大陆小舞-小语,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/bdef6f2c/index.m3u8
+女教师-柚子猫,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/95be12e9/index.m3u8
+MDX-0143机长偷吃俏空姐-倪哇哇,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/ae78ea50/index.m3u8
+MDX-0145幸运裸体家政妇-蜜苏,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/ec5d234a/index.m3u8
+兔子先生之爸气十足EP4上甜蜜约会极致性爱,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/9a6f1355/index.m3u8
+調教してください-古瀬玲,https://ckcdnc1.cdn2020.com/video/m3u8/2019/12/02/33b0fa7f/index.m3u8
+精东影业强上学生的姐姐,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/836eb99d/index.m3u8
+MSD-036偷摄邻家淫妻-方紫璐,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/38c42a2a/index.m3u8
+MD-0178痴女学员饥渴求欢-管明美,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/0df67290/index.m3u8
+果冻传媒绿帽父亲受精女-戚小怜,https://t11.cdn2020.com:12336/video/m3u8/2021/09/30/159dd5f6/index.m3u8
+粉色系学姐啪啪直播,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/634b5006/index.m3u8
+两个网红妹子双飞学长,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/693c9f30/index.m3u8
+喜欢吃鸡巴的性感小姐姐,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/3d4e0bb6/index.m3u8
+家有骚妻粉嫩美鲍,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/381f1951/index.m3u8
+被闺蜜老公泄欲迷奸,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/65bf1733/index.m3u8
+致富女人的性玩具-沈娜娜,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/cdc3adee/index.m3u8
+DYTM008抖音旅行射第8期贵州侗族民族风,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/f758909c/index.m3u8
+人妻堕落之路-欧妮,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/ee2201d6/index.m3u8
+果冻传媒少女的悔悟-潘甜甜,https://t11.cdn2020.com:12336/video/m3u8/2021/10/01/520a11da/index.m3u8
+星空传媒少妇白洁1-童汐,https://t7.cdn2020.com/video/m3u8/2021/06/26/211a053a/index.m3u8
+星空传媒少妇白洁2-童汐,https://t7.cdn2020.com/video/m3u8/2021/07/10/66f7c99f/index.m3u8
+星空传媒少妇白洁3-童汐,https://t10.cdn2020.com:12335/video/m3u8/2021/07/23/3203cba6/index.m3u8
+星空传媒少妇白洁4-童汐,https://t10.cdn2020.com:12335/video/m3u8/2021/08/21/85331d8e/index.m3u8
+星空传媒少妇白洁5-童汐,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/09d29d49/index.m3u8
+蜜桃传媒粉丝突袭计划-陈圆圆,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/0627c7b4/index.m3u8
+丈夫的绿帽愿望-夏晴子,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5cf7490d/index.m3u8
+天美传媒之色情公寓关谷神奇入贼窟-花语柔,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/4907f503/index.m3u8
+精东影业万万没想到之白蛇传,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8a0dfe62/index.m3u8
+轮奸女家教-兮兮,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/e0d1df93/index.m3u8
+星空传媒淫蛇-刘清韵,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/ee2ce840/index.m3u8
+星空传媒民国旗袍系列2-无双,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/5df8a4e6/index.m3u8
+少年阿宾第二季篇章五寒假开始,https://t11.cdn2020.com:12336/video/m3u8/2021/10/02/8ce1afc0/index.m3u8
+高颜值女神沈樵度剧情我的漂亮后妈,https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
+沈樵首部大尺度古装剧情七旬老农女鬼诱惑,https://ckcdnc1.cdn2020.com/video/m3u8/2020/06/14/df1cd2e3/index.m3u8
+沈樵新剧之呆在大学女寝室的一晚,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/11/ef40a61c/index.m3u8
+沈樵新剧女色狼勾引外卖小哥,https://ckcdnz6.cdn2020.com/video/m3u8/2020/07/12/0328b6c2/index.m3u8
+沈樵新剧之火车邂逅前男友,https://ckcdnz4.cdn2020.com/video/m3u8/2020/07/12/3727d5e3/index.m3u8
+沈樵新剧之十八线女演员上位记,https://t3.cdn2020.com/video/m3u8/2020/07/16/85d1ff1f/index.m3u8
+沈樵剧情之我的高中数学老师,https://t4s.cdn2020.com/video/m3u8/2020/08/06/47fd837e/index.m3u8
+新来的技师小樵-沈樵,https://t6s.cdn2020.com/video/m3u8/2021/02/12/0b5f543f/index.m3u8
+醉酒女郎激情诱惑网约司机-沈樵,https://t7.cdn2020.com/video/m3u8/2021/05/09/29286674/index.m3u8
+女色狼勾引快递小哥-沈樵,https://t7.cdn2020.com/video/m3u8/2021/07/10/2339bcbe/index.m3u8
+内射黑丝骚表姐,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/20620a9f/index.m3u8
+性感小车模跟男友的三小时做爱大秀,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/bfffd0c3/index.m3u8
+特殊中秋礼物呈现方式-nicolove,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/9db01c2c/index.m3u8
+与情趣娃娃的多人运动-nicolove,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/76b354e9/index.m3u8
+森林第一集相遇-玩偶姐姐,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/e278a64b/index.m3u8
+精东影业嫦娥奔月,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/58df1fec/index.m3u8
+视讯会议的打扰-沈娜娜,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/7e3e81a8/index.m3u8
+兔子先生之东京爱欲故事-明日香,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/74bc2f59/index.m3u8
+青春盛宴-艾拉,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/93bbf141/index.m3u8
+果冻传媒之36D巨乳淫女的肉体情欲,https://t11.cdn2020.com:12336/video/m3u8/2021/09/23/d5650410/index.m3u8
+骚货小姐色诱美团外卖员做爱,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/13118efa/index.m3u8
+真实直播公园勾引环卫工人,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/36aa94c5/index.m3u8
+骚气同租房小姐,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ba3e1caf/index.m3u8
+会所培训师教员工如何服务客户,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/8f60abdb/index.m3u8
+两个嫩妹勾引小帅哥双飞,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/93b37d2c/index.m3u8
+MD有钱能使妹开腿-艾秋,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/9abe8198/index.m3u8
+MD淫欲面试间-盼容,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ed00ba64/index.m3u8
+天美传媒黑暗幼女-安妮,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/9aff65a7/index.m3u8
+星空传媒程序员的奇幻之旅1-龚菲菲,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ddad30f8/index.m3u8
+MSD香艳姐妹新邻居-袁子仪,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/71a1be12/index.m3u8
+寂寞调酒站-韩宝儿,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/ba7a54a9/index.m3u8
+MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/3127f53f/index.m3u8
+家庭教师-雨晨,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/39cdc1a2/index.m3u8
+精东影业健身性爱,https://t11.cdn2020.com:12336/video/m3u8/2021/09/25/7bd55242/index.m3u8
+美容院女性,https://d3b4hd2s3d140t.cloudfront.net/putong/20200227/pxIXV6VX/index.m3u8
+私密养生按摩馆,https://d3b4hd2s3d140t.cloudfront.net/jingpin/20210717/vgiMyK39/index.m3u8
+加班中的密室,https://fc.imgscloud.com/b/zwtbcuiplp/zwtbcuiplp.m3u8
+越按越舒服,https://d1t7npgyc5r5ob.cloudfront.net/20200523/ExpdRMwK/index.m3u8
