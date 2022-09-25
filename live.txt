@@ -157,27 +157,7 @@ XY Max[1920*1080],http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6286/index.m3u
 XY Mix[1920*1080],http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6287/index.m3u8
 XY Plus[1920*1080],http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/6288/index.m3u8
 
-超时源,#genre#
-ALBA XXX1,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12105/index.m3u8
-ALBA XXX2,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/12107/index.m3u8
-Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-Brazzers Europe,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/910/index.m3u8
-CTCHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
-CTCLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
-EroxHD,http://94.229.250.73:8008/play/a002
-KinoXXX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11052/index.m3u8
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
-Miami TV Jenny Live (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-Miami TV Mexico (720p) [Not 24/7],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Midnight (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
-OX-AX,http://88d3fddf.ottrast.com/iptv/2XGCY732NCTX4V/11068/index.m3u8
-PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
-Playboy TV Korea (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
-THTHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-Viki (1080p) [Not 24/7],https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
-XXX MILF,http://cdn.redtraffic.net/milf.m3u8
+
 
 
 vod,#genre#
