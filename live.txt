@@ -145,16 +145,10 @@ IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 RedlightHD,http://109.200.130.123:7032/play/353
-VividRedHD,http://109.200.130.123:7032/play/a00g
-ShemaleTubeTVHD,https://www.ast.tv/stream/1/master.m3u8
-ShemaleTubeTV2HD,https://www.ast.tv/stream/2/master.m3u8
-Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
-ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 Chrome,https://vod2t.xpanded.com/x3tv/index_wlan.m3u8
 Viki (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Viki.m3u8
 Playboy TV,https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 Honey TV (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/HoneyTV.m3u8
-Fashion TV,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 Midnight (1080p),https://allanf181.github.io/adaptive-streams/streams/kr/Midnight.m3u8
 
 jp,#genre#
