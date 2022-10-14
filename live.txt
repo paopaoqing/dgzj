@@ -197,8 +197,8 @@ XXX | X-Dream TV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101837
 XXX | X-Dream TV 2,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101838
 XXX | X-MO,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101866
 XXX | XXL,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101800
-XXX | ѧݧTV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101820
-XXX | קݧTV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101821
+XXX | Шалун TV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101820
+XXX | קШёлк TV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/101821
 XXX.|  Beate Uhse.TV,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/106340
 XXX.| Alba XXX 1,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/106341
 XXX.| Alba XXX 2,http://12.balans12.xyz:50750/Pacepro/UppD9GASU8rV/106342
