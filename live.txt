@@ -1,73 +1,26 @@
 ip adult iptv,#genre#
-RedlightHD,http://109.200.130.123:7032/play/353
+EROTIC 3,http://195.154.185.179:80/xx_hot_tv/index.m3u8
+EroxHD,http://94.229.250.73:8008/play/a002
+Hustler,http://78.83.191.18:8000/play/a078
+Hustler HD,http://193.33.240.8:80/hustler_hd/video.m3u8
+Hustler HD,http://193.33.240.8:80/hustler_hd/index.m3u8
 jasmin_tv[1920*1080],http://195.154.185.179/xx_nuart_tv/index.m3u8
+Penthouse Gold,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse Quickies,http://80.24.75.92:5555/udp/239.111.4.2:1234
 PinkErotic3[1024*576],http://195.154.185.179/xx_hot_tv/index.m3u8
 PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
-Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
-HustlerTV[1024*576],http://78.83.191.18:8000/play/a078
 PinkoClub[1024*576],http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
 PinkoClub[1024*576],http://93.152.174.144:4000/play/pinkotv/index.m3u8
-RedlightHD[1920*1080],http://93.152.174.144:4000/play/privatetv1/index.m3u8
-EroxHD,http://94.229.250.73:8008/play/a002
-
-streamlock adult iptv,#genre#
-Miami TV Jenny,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Jenny For You[1280*720],https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-
-angeltv adult iptv,#genre#
-XXX: Adorable Teens Anus Angels,http://angeltv.biz:6969/antonio/antonio/97818
-XXX: Alba XXX 1,http://angeltv.biz:6969/antonio/antonio/97777
-XXX: Alba XXX 2,http://angeltv.biz:6969/antonio/antonio/97778
-XXX: Alba XXX 3,http://angeltv.biz:6969/antonio/antonio/97779
-XXX: Alba XXX 4,http://angeltv.biz:6969/antonio/antonio/97780
-XXX: BALKAN EROTIC,http://angeltv.biz:6969/antonio/antonio/97786
-XXX: BANG U,http://angeltv.biz:6969/antonio/antonio/97787
-XXX: BARELY LEGAL,http://angeltv.biz:6969/antonio/antonio/97817
-XXX: Blacked,http://angeltv.biz:6969/antonio/antonio/97842
-XXX: Blue Hustler,http://angeltv.biz:6969/antonio/antonio/97788
-XXX: BOXTRUCK SEX,http://angeltv.biz:6969/antonio/antonio/97790
-XXX: Brazzers TV,http://angeltv.biz:6969/antonio/antonio/97791
-XXX: Dorcel TV,http://angeltv.biz:6969/antonio/antonio/97792
-XXX: Dusk,http://angeltv.biz:6969/antonio/antonio/97794
-XXX: erotic 1,http://angeltv.biz:6969/antonio/antonio/97795
-XXX: erotic 2,http://angeltv.biz:6969/antonio/antonio/97796
-XXX: erotic 3,http://angeltv.biz:6969/antonio/antonio/97797
-XXX: erotic 4,http://angeltv.biz:6969/antonio/antonio/97798
-XXX: erotic 5,http://angeltv.biz:6969/antonio/antonio/97799
-XXX: erotic 6,http://angeltv.biz:6969/antonio/antonio/97800
-XXX: erotic 7,http://angeltv.biz:6969/antonio/antonio/97801
-XXX: erotic 8,http://angeltv.biz:6969/antonio/antonio/97802
-XXX: EROX,http://angeltv.biz:6969/antonio/antonio/97803
-XXX: EROXXX,http://angeltv.biz:6969/antonio/antonio/97804
-XXX: Evil Angel,http://angeltv.biz:6969/antonio/antonio/97805
-XXX: FAP TV Teens,http://angeltv.biz:6969/antonio/antonio/97850
-XXX: Fashion TV,http://angeltv.biz:6969/antonio/antonio/97806
-XXX: HOT,http://angeltv.biz:6969/antonio/antonio/97807
-XXX: HOT TABOO,http://angeltv.biz:6969/antonio/antonio/97808
-XXX: Hustler,http://angeltv.biz:6969/antonio/antonio/97810
-XXX: JASMIN.TV,http://angeltv.biz:6969/antonio/antonio/97811
-XXX: Juicy,http://angeltv.biz:6969/antonio/antonio/58766
-XXX: LEO TV,http://angeltv.biz:6969/antonio/antonio/97812
-XXX: Meiden Van Holland,http://angeltv.biz:6969/antonio/antonio/97813
-XXX: Miami TV,http://angeltv.biz:6969/antonio/antonio/97814
-XXX: Miami TV Jenny Live,http://angeltv.biz:6969/antonio/antonio/97815
-XXX: Miami TV Latino,http://angeltv.biz:6969/antonio/antonio/97816
-XXX: O.La.La,http://angeltv.biz:6969/antonio/antonio/97819
-XXX: Passie XXX,http://angeltv.biz:6969/antonio/antonio/97820
-XXX: Perv City,http://angeltv.biz:6969/antonio/antonio/97825
-XXX: Pinko Club,http://angeltv.biz:6969/antonio/antonio/97826
-XXX: PLAYBOY,http://angeltv.biz:6969/antonio/antonio/97827
-XXX: Private TV,http://angeltv.biz:6969/antonio/antonio/97828
-XXX: Reality Kings TV,http://angeltv.biz:6969/antonio/antonio/97829
-XXX: XXL,http://angeltv.biz:6969/antonio/antonio/97853
-XXX: XY Mix,http://angeltv.biz:6969/antonio/antonio/97839
-XXX: XY Plus,http://angeltv.biz:6969/antonio/antonio/97840
-XXX: XY Plus,http://angeltv.biz:6969/antonio/antonio/97841
-
+PinkoTV,http://w4.12all.tv:4000/play/pinkotv/index.m3u8
+playboy,http://160.20.164.171:8001/play/a074
+Private HD 18+,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight,http://w4.12all.tv:4000/play/privatetv1/index.m3u8
+Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
+SEXTREME1,http://92.242.176.83:8096
+SEXTREME2,http://92.242.176.83:8095
+SEXTREME3,http://92.242.176.83:8097
+SEXTREME4,http://92.242.176.83:8098
+VENUS,http://160.20.164.171:8001/play/a034
 
 
 MyCamTV adult iptv,#genre#
@@ -91,138 +44,74 @@ MyCamTV White Girls[1280*720],http://live.mycamtv.com/white.m3u8
 MyCamTV Young Girls[1280*720],http://live.mycamtv.com/young.m3u8
 
 redtraffic1 adult iptv,#genre#
-Anal[1280*720],http://cdn.redtraffic.net/anal.m3u8
-BigAss[1280*720],http://cdn.redtraffic.net/bigass.m3u8
-BigDick[1280*720],http://cdn.redtraffic.net/bigdick.m3u8
-BigTits[1280*720],http://cdn.redtraffic.net/bigtits.m3u8
-Blonde[1280*720],http://cdn.redtraffic.net/blonde.m3u8
-Blowjob[1280*720],http://cdn.redtraffic.net/blowjob.m3u8
-Brunette[1280*720],http://cdn.redtraffic.net/brunette.m3u8
-Compilation[1280*720],http://cdn.redtraffic.net/compilation.m3u8
-Cuckold[1280*720],http://cdn.redtraffic.net/cuckold.m3u8
-Fetish[1280*720],http://cdn.redtraffic.net/fetish.m3u8
-Gangbang[1280*720],http://cdn.redtraffic.net/gangbang.m3u8
-Gay[1280*720],http://cdn.redtraffic.net/gay.m3u8
-Hardcore[1280*720],http://cdn.redtraffic.net/hardcore.m3u8
-Interracial[1280*720],http://cdn.redtraffic.net/interracial.m3u8
-Latina[1280*720],http://cdn.redtraffic.net/latina.m3u8
-Lesbian[1280*720],http://cdn.redtraffic.net/lesbian.m3u8
-Live Cams[1280*720],http://cdn.redtraffic.net/livecams.m3u8
-MILF,http://cdn.redtraffic.net/milf.m3u8
-Pornstar[1280*720],http://cdn.redtraffic.net/pornstar.m3u8
-POV[1280*720],http://cdn.redtraffic.net/pov.m3u8
-Rough[1280*720],http://cdn.redtraffic.net/rough.m3u8
-Russian[1280*720],http://cdn.redtraffic.net/russian.m3u8
-Teen[1280*720],http://cdn.redtraffic.net/teen.m3u8
-Threesome[1280*720],http://cdn.redtraffic.net/threesome.m3u8
-
-redtraffic2 adult iptv,#genre#
-RedTraffic Woman,http://live.redtraffic.net/woman.m3u8
-Asian[1280*720],http://live.redtraffic.xyz/asian.m3u8
-Bigass[1280*720],http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
-BigDick[1280*720],http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-Blonde[1280*720],http://live.redtraffic.xyz/blonde.m3u8
-Blowjob[1280*720],http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-Brunette[1280*720],http://live.redtraffic.xyz/brunette.m3u8
-Compilation[1280*720],http://live.redtraffic.xyz/compilation.m3u8
-Fetish[1280*720],http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-Gay[1280*720],http://live.redtraffic.xyz/gay.m3u8
-latina[1280*720],http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-Lesbian[1280*720],http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
-LiveCams[1280*720],http://live.redtraffic.xyz/livecams.m3u8
-MILF[1280*720],http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
-pornstar[1280*720],http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
-POV[1280*720],http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-RedTraffic Anal,http://live.redtraffic.xyz/anal.m3u8
-RedTraffic Big Ass,http://live.redtraffic.xyz/bigass.m3u8
-RedTraffic BigDick,http://live.redtraffic.xyz/bigdick.m3u8
-RedTraffic BigTits,http://live.redtraffic.xyz/bigtits.m3u8
-RedTraffic Blowjob,http://live.redtraffic.xyz/blowjob.m3u8
-RedTraffic Cuckold,http://live.redtraffic.xyz/cuckold.m3u8
-RedTraffic Fetish,http://live.redtraffic.xyz/fetish.m3u8
-RedTraffic Gangbang,http://live.redtraffic.xyz/gangbang.m3u8
-RedTraffic Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
-RedTraffic Interracial,http://live.redtraffic.xyz/interracial.m3u8
-RedTraffic Latina,http://live.redtraffic.xyz/latina.m3u8
-RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
-RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
-RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
-RedTraffic Pov,http://live.redtraffic.xyz/pov.m3u8
-RedTraffic Russian,http://live.redtraffic.xyz/russian.m3u8
-RedTraffic Teen,http://live.redtraffic.xyz/teen.m3u8
-RedTraffic Threesome,http://live.redtraffic.xyz/threesome.m3u8
-Rough[1280*720],http://live.redtraffic.xyz/rough.m3u8
-Threesome[1280*720],http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
-BigAss[1280*720],http://live.redtraffic.xyz:80/bigass.m3u8
-BigDick[1280*720],http://live.redtraffic.xyz:80/bigdick.m3u8
-Bigtits[1280*720],http://live.redtraffic.xyz:80/bigtits.m3u8
-Blowjob[1280*720],http://live.redtraffic.xyz:80/blowjob.m3u8
-Cuckold[1280*720],http://live.redtraffic.xyz:80/cuckold.m3u8
-Fetish[1280*720],http://live.redtraffic.xyz:80/fetish.m3u8
-HardCore[1280*720],http://live.redtraffic.xyz:80/hardcore.m3u8
-Interracial[1280*720],http://live.redtraffic.xyz:80/interracial.m3u8
-MILF[1280*720],http://live.redtraffic.xyz:80/milf.m3u8
-pornstar[1280*720],http://live.redtraffic.xyz:80/pornstar.m3u8
-POV[1280*720],http://live.redtraffic.xyz:80/pov.m3u8
-Russian[1280*720],http://live.redtraffic.xyz:80/russian.m3u8
-Teen[1280*720],http://live.redtraffic.xyz:80/teen.m3u8
-Threesome[1280*720],http://live.redtraffic.xyz:80/threesome.m3u8
+Anal,http://live.redtraffic.xyz/anal.m3u8#http://cdn.redtraffic.net/anal.m3u8
+Asian,http://live.redtraffic.xyz/asian.m3u8
+BigAss,http://live.redtraffic.xyz/bigass.m3u8#http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/bigass.m3u8#http://cdn.redtraffic.net/bigass.m3u8
+BigDick,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/bigdick.m3u8#http://live.redtraffic.xyz:80/bigdick.m3u8#http://cdn.redtraffic.net/bigdick.m3u8
+BigTits,http://live.redtraffic.xyz:80/bigtits.m3u8#http://live.redtraffic.xyz/bigtits.m3u8#http://cdn.redtraffic.net/bigtits.m3u8
+Blonde,http://live.redtraffic.xyz/blonde.m3u8#http://cdn.redtraffic.net/blonde.m3u8
+Blowjob,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/blowjob.m3u8#http://live.redtraffic.xyz:80/blowjob.m3u8#http://cdn.redtraffic.net/blowjob.m3u8
+Brunette,http://live.redtraffic.xyz/brunette.m3u8#http://cdn.redtraffic.net/brunette.m3u8
+Compilation,http://live.redtraffic.xyz/compilation.m3u8#http://cdn.redtraffic.net/compilation.m3u8
+Cuckold,http://live.redtraffic.xyz/cuckold.m3u8#http://live.redtraffic.xyz:80/cuckold.m3u8#http://cdn.redtraffic.net/cuckold.m3u8
+Fetish,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/fetish.m3u8#http://live.redtraffic.xyz:80/fetish.m3u8#http://cdn.redtraffic.net/fetish.m3u8
+Gangbang,http://live.redtraffic.xyz/gangbang.m3u8#http://cdn.redtraffic.net/gangbang.m3u8
+Gay,http://live.redtraffic.xyz/gay.m3u8#http://cdn.redtraffic.net/gay.m3u8
+Hardcore,http://live.redtraffic.xyz/hardcore.m3u8#http://cdn.redtraffic.net/hardcore.m3u8
+HardCore,http://live.redtraffic.xyz:80/hardcore.m3u8
+Interracial,http://live.redtraffic.xyz/interracial.m3u8#http://live.redtraffic.xyz:80/interracial.m3u8#http://cdn.redtraffic.net/interracial.m3u8
+Latina,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/latina.m3u8#http://cdn.redtraffic.net/latina.m3u8
+Lesbian,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/lesbian.m3u8#http://cdn.redtraffic.net/lesbian.m3u8
+Live Cams,http://cdn.redtraffic.net/livecams.m3u8
+LiveCams,http://live.redtraffic.xyz/livecams.m3u8
+MILF,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz/milf.m3u8#http://live.redtraffic.xyz:80/milf.m3u8#http://cdn.redtraffic.net/milf.m3u8
+Pornstar,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/pornstar.m3u8#http://live.redtraffic.xyz/pornstar.m3u8#http://cdn.redtraffic.net/pornstar.m3u8
+POV,http://live.redtraffic.xyz/pov.m3u8#http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/pov.m3u8#http://cdn.redtraffic.net/pov.m3u8
+Rough,http://live.redtraffic.xyz/rough.m3u8#http://cdn.redtraffic.net/rough.m3u8
+Russian,http://live.redtraffic.xyz/russian.m3u8#http://live.redtraffic.xyz:80/russian.m3u8#http://cdn.redtraffic.net/russian.m3u8
+Teen,http://live.redtraffic.xyz/teen.m3u8#http://live.redtraffic.xyz:80/teen.m3u8#http://cdn.redtraffic.net/teen.m3u8
+Threesome,http://live.redtraffic.xyz/threesome.m3u8#http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/threesome.m3u8#http://cdn.redtraffic.net/threesome.m3u8
+Woman,http://live.redtraffic.net/woman.m3u8
 
 adultiptv,#genre#
-Anal[1280*720],http://cdn.adultiptv.net/anal.m3u8
-Asian[1280*720],http://cdn.adultiptv.net/asian.m3u8
-BigAss [1280*720],http://cdn.adultiptv.net/bigass.m3u8
-BigDick[1280*720],http://cdn.adultiptv.net/bigdick.m3u8
-BigTits[1280*720],http://cdn.adultiptv.net/bigtits.m3u8
-Blonde [1280*720],http://cdn.adultiptv.net/blonde.m3u8
-Blonde[1280*720],http://cdn.adultiptv.net/blonde.m3u8?streamType=liv??hls
-Blowjob [1280*720],http://cdn.adultiptv.net/blowjob.m3u8
-Brunette [1280*720],http://cdn.adultiptv.net/brunette.m3u8
-Compilation [1280*720],http://cdn.adultiptv.net/compilation.m3u8
-Cuckold[1280*720],http://cdn.adultiptv.net/cuckold.m3u8
-Fetish [1280*720],http://cdn.adultiptv.net/fetish.m3u8
-Gangbang [1280*720],http://cdn.adultiptv.net/gangbang.m3u8
-Gay [1280*720],http://cdn.adultiptv.net/gay.m3u8
-Hardcore [1280*720],http://cdn.adultiptv.net/hardcore.m3u8
-Interracial [1280*720],http://cdn.adultiptv.net/interracial.m3u8
-Latina[1280*720],http://cdn.adultiptv.net/latina.m3u8
-Lesbian [1280*720],http://cdn.adultiptv.net/lesbian.m3u8
-Live Cams[1280*720],http://cdn.adultiptv.net/livecams.m3u8
-MILF (720p)[1280*720],http://cdn.adultiptv.net/milf.m3u8
-Pornstar (720p)[1280*720],http://cdn.adultiptv.net/pornstar.m3u8
-POV[1280*720],http://cdn.adultiptv.net/pov.m3u8
-Rough[1280*720],http://cdn.adultiptv.net/rough.m3u8
-Russian[1280*720],http://cdn.adultiptv.net/russian.m3u8
-Teen[1280*720],http://cdn.adultiptv.net/teen.m3u8
-Threesome[1280*720],http://cdn.adultiptv.net/threesome.m3u8
-
+Anal,http://cdn.adultiptv.net/anal.m3u8
+Asian,http://cdn.adultiptv.net/asian.m3u8
+BigAss,http://cdn.adultiptv.net/bigass.m3u8
+BigDick,http://cdn.adultiptv.net/bigdick.m3u8
+BigTits,http://cdn.adultiptv.net/bigtits.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8
+Blonde,http://cdn.adultiptv.net/blonde.m3u8?streamType=liv??hls
+Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
+Brunette,http://cdn.adultiptv.net/brunette.m3u8
+Compilation,http://cdn.adultiptv.net/compilation.m3u8
+Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
+Fetish,http://cdn.adultiptv.net/fetish.m3u8
+Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
+Gay,http://cdn.adultiptv.net/gay.m3u8
+Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
+Interracial,http://cdn.adultiptv.net/interracial.m3u8
+Latina,http://cdn.adultiptv.net/latina.m3u8
+Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
+Live Cams,http://cdn.adultiptv.net/livecams.m3u8
+MILF,http://cdn.adultiptv.net/milf.m3u8
+Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
+POV,http://cdn.adultiptv.net/pov.m3u8
+Rough,http://cdn.adultiptv.net/rough.m3u8
+Russian,http://cdn.adultiptv.net/russian.m3u8
+Teen,http://cdn.adultiptv.net/teen.m3u8
+Threesome,http://cdn.adultiptv.net/threesome.m3u8
 
 other adult iptv,#genre#
-CTCHD,http://myott.tv/stream/S8JK2Q2BVB/138.m3u8
-CTCLove,http://myott.tv/stream/S8JK2Q2BVB/183.m3u8
-THTHD,http://myott.tv/stream/S8JK2Q2BVB/135.m3u8
-VISIT-X TV HD (18+),http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Chrome,https://vod2t.xpanded.com/x3tv/index_wlan.m3u8
-LTV X Art 2 18+,http://epsilon-c1.liux.tv/adl-x-art2/mono.m3u8?token=73af6878-25e2-4699-b033-32a67053cace
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-Penthouse[1280*720],http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
+IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
+Miami TV Jenny,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV Jenny For You[1280*720],https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 
-jp,#genre#
-彩虹e台,P2p://ns1.hellotvvod.com:9906/395b85c0477c46a0bb3784dfb24a5bcc
-彩虹电影台,P2p://ns1.hellotvvod.com:9906/b30369eac5f34940a9d69cbce1a69cad
-LOOK TV,P2p://ns1.hellotvvod.com:9906/90450f3f6f954f438a01342ce437a53d
-潘朵啦玩美台,P2p://ns1.hellotvvod.com:9906/b6b68f2c2c6444108c6125a04904a010
-惊艳成人电影台,P2p://ns1.hellotvvod.com:9906/70ef51bf19b14520ad2c466bc41abb9e
-松视1台,P2p://ns1.hellotvvod.com:9906/6d4ff039a40a470da10df154f75cf88b
-松视2台,P2p://ns1.hellotvvod.com:9906/70bb5dd46a13492283c13b26c363e0e0
-PLAYBOY,P2p://ns1.hellotvvod.com:9906/e29e313adde24d83b11f8f6d01dd286e
-香蕉台,P2p://ns1.hellotvvod.com:9906/c178f44b52ee44e3a5a4d3b20f530e11
-松视3台,P2p://ns1.hellotvvod.com:9906/c04eae5be9d5426092ab2d354e427097
-JStar极限台,P2p://ns1.hellotvvod.com:9906/682aa83653f148439bff8a335dcf42cc
-HAPPY,P2p://ns1.hellotvvod.com:9906/e0f27b1dc3f34298b020a47e396471fc
-K,P2p://ns1.hellotvvod.com:9906/059ea3eecc1244f0992815346ab94f3d
 
 国产直播,#genre#
 泰国成人大秀,http://l2.iiun666.cn/live/cx_963.flv
@@ -2034,5 +1923,3 @@ MD反叛女学生的逆袭-玥可岚,https://t11.cdn2020.com:12336/video/m3u8/20
 模特神尾舞,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092215_157/index.m3u8
 巨乳清水理紗,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-092515_160/index.m3u8
 美人汁藤井なな,http://videocdn.hndtl.com:8091/20190331/hd_1pondo-100115_163/index.m3u8
-
-
