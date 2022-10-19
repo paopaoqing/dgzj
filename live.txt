@@ -1,3 +1,59 @@
+worldtvip,#genre#
+babes,http://ad.worldtvip.co:8020/xx_babes_tv_hd/index.m3u8?token=test
+balkan,http://ad.worldtvip.co:8020/xx_balkan_erotic/index.m3u8?token=test
+bang u,http://ad.worldtvip.co:8020/xx_bang_u/index.m3u8?token=test
+barely legal,http://ad.worldtvip.co:8020/xx_barely_legal_tv/index.m3u8?token=test
+bizarre,http://ad.worldtvip.co:8020/xx_x_bizarre/index.m3u8?token=test
+blue hustler,http://ad.worldtvip.co:8020/xx_blue_hustler/index.m3u8?token=test
+blue hustler europe,http://ad.worldtvip.co:8020/xx_blue_hustler_europe/index.m3u8?token=test
+brazzers,http://ad.worldtvip.co:8020/xx_brazzers_tv/index.m3u8?token=test
+brazzers tv europe,http://ad.worldtvip.co:8020/xx_brazzers_tv_europe/index.m3u8?token=test
+brazzers tv europe russian,http://ad.worldtvip.co:8020/xx_brazzers_tv_europe_russian/index.m3u8?token=test
+bunga bunga,http://ad.worldtvip.co:8020/xx_x_bunga_bunga/index.m3u8?token=test
+desire,http://ad.worldtvip.co:8020/xx_x_desire/index.m3u8?token=test
+dorcel,http://ad.worldtvip.co:8020/xx_dorcel_xxx_hd/index.m3u8?token=test
+dusk,http://ad.worldtvip.co:8020/xx_dusk/index.m3u8?token=test
+emanuelle,http://ad.worldtvip.co:8020/xx_emanuelle/index.m3u8?token=test
+erox,http://ad.worldtvip.co:8020/xx_erox_hd/index.m3u8?token=test
+erox xxx,http://ad.worldtvip.co:8020/xx_erox_xxx_hd/index.m3u8?token=test
+etotic6,http://ad.worldtvip.co:8020/xx_sexy_hot/index.m3u8?token=test
+evil angel,http://ad.worldtvip.co:8020/xx_evil_angel/index.m3u8?token=test
+extasy,http://ad.worldtvip.co:8020/xx_extasy_hd/index.m3u8?token=test
+extreme,http://ad.worldtvip.co:8020/xx_extreme/index.m3u8?token=test
+exxxotica,http://ad.worldtvip.co:8020/xx_exxxotica_tv/index.m3u8?token=test
+hot pleasure,http://ad.worldtvip.co:8020/xx_hot_pleasure/index.m3u8?token=test
+hot tv,http://ad.worldtvip.co:8020/xx_hot_tv/index.m3u8?token=test
+hustler tv,http://ad.worldtvip.co:8020/xx_hustler_tv/index.m3u8?token=test
+leo tv,http://ad.worldtvip.co:8020/xx_leo_tv/index.m3u8?token=test
+lesb affair,http://ad.worldtvip.co:8020/xx_lesbian_affair/index.m3u8?token=test
+meiden van holland,http://ad.worldtvip.co:8020/xx_meiden_van_holland_hard/index.m3u8?token=test
+milf,http://ad.worldtvip.co:8020/xx_milf_tv/index.m3u8?token=test
+net,http://ad.worldtvip.co:8020/xx_net_xx/index.m3u8?token=test
+nuart,http://ad.worldtvip.co:8020/xx_nuart_tv/index.m3u8?token=test
+nuart tv,http://ad.worldtvip.co:8020/xx_nuart_tv_hd/index.m3u8?token=test
+oldtimer,http://ad.worldtvip.co:8020/xx_oldtimer/index.m3u8?token=test
+passie,http://ad.worldtvip.co:8020/xx_passie_xxx/index.m3u8?token=test
+passion,http://ad.worldtvip.co:8020/xx_passion_xxx/index.m3u8?token=test
+penthouse gold,http://ad.worldtvip.co:8020/xx_penthouse_gold_hd/index.m3u8?token=test
+penthouse passion,http://ad.worldtvip.co:8020/xx_penthouse_passion_hd/index.m3u8?token=test
+pink o,http://ad.worldtvip.co:8020/xx_pink_o_tv/index.m3u8?token=test
+playhouse,http://ad.worldtvip.co:8020/xx_playhouse/index.m3u8?token=test
+prive,http://ad.worldtvip.co:8020/xx_prive_tv/index.m3u8?token=test
+red,http://ad.worldtvip.co:8020/xx_red_xxx/index.m3u8?token=test
+redlight,http://ad.worldtvip.co:8020/xx_redlight_hd/index.m3u8?token=test
+sct classic,http://ad.worldtvip.co:8020/xx_sct_classic/index.m3u8?token=test
+secret circle,http://ad.worldtvip.co:8020/xx_secret_circle_tv/index.m3u8?token=test
+sexation,http://ad.worldtvip.co:8020/xx_sex_ation_hd/index.m3u8?token=test
+sextreme,http://ad.worldtvip.co:8020/xx_sextreme/index.m3u8?token=test
+stars,http://ad.worldtvip.co:8020/xx_stars_xxx_hd/index.m3u8?token=test
+taboo,http://ad.worldtvip.co:8020/xx_taboo/index.m3u8?token=test
+vivid,http://ad.worldtvip.co:8020/xx_vivid_tv_europe/index.m3u8?token=test
+x1,http://ad.worldtvip.co:8020/xx_x1/index.m3u8?token=test
+xxl,http://ad.worldtvip.co:8020/xx_xxl/index.m3u8?token=test
+xy max,http://ad.worldtvip.co:8020/xx_xy_max_hd/index.m3u8?token=test
+xy plus,http://ad.worldtvip.co:8020/xx_xy_plus_hd/index.m3u8?token=test
+zest,http://ad.worldtvip.co:8020/xx_zest_tv/index.m3u8?token=test
+
 ip adult iptv,#genre#
 EROTIC 3,http://195.154.185.179:80/xx_hot_tv/index.m3u8
 EroxHD,http://94.229.250.73:8008/play/a002
