@@ -161,7 +161,7 @@ MyCamTV Teen Girls[1280*720],http://live.mycamtv.com/teen.m3u8
 MyCamTV White Girls[1280*720],http://live.mycamtv.com/white.m3u8
 MyCamTV Young Girls[1280*720],http://live.mycamtv.com/young.m3u8
 
-redtraffic1 adult iptv,#genre#
+redtraffic adult iptv,#genre#
 Anal,http://live.redtraffic.xyz/anal.m3u8#http://cdn.redtraffic.net/anal.m3u8
 Asian,http://live.redtraffic.xyz/asian.m3u8
 BigAss,http://live.redtraffic.xyz/bigass.m3u8#http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8#http://live.redtraffic.xyz:80/bigass.m3u8#http://cdn.redtraffic.net/bigass.m3u8
@@ -224,23 +224,19 @@ A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 IBizaHDTV1,https://cdn1.ibizastream.biz:441/free/Stream1/playlist.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
-Miami TV Jenny,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV Jenny For You[1280*720],https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
-Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
-Miami TV Latino (1080p),https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/527/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/147/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/910/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/919/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/922/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/923/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/813/index.m3u8
-#EXTGRP:взрослые,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/1073/index.m3u8
 Miami TV Jenny For You [18+],https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
 Miami TV Jenny Live [18+],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-Miami TV México [18+],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
+Miami TV Mexico [18+],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
 Miami TV Latino [18+],https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
+взрослые527,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/527/index.m3u8
+взрослые147,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/147/index.m3u8
+взрослые910,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/910/index.m3u8
+взрослые919,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/919/index.m3u8
+взрослые922,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/922/index.m3u8
+взрослые923,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/923/index.m3u8
+взрослые813,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/813/index.m3u8
+взрослые1073,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/1073/index.m3u8
 КИНО [18+],http://autopilot.catcast.tv/content/40381/index.m3u8
 ROUGE TV 720P [18+],http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
 ШЕЛК ТВ HD [18+],http://live-1.otcnet.ru/shelkhdmts/index.m3u8
