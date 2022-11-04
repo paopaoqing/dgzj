@@ -4,7 +4,7 @@
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvcGFvcGFvcWluZy9kZ3pqQG1haW4vZGd6ai50eHQ"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9qc2QuY2RuLnp6a28uY24vZ2gvcGFvcGFvcWluZy9kZ3pqQG1haW4vZGd6ai50eHQ="]}]}],
 
 
 "sites":[
