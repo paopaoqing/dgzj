@@ -429,8 +429,8 @@
     },	
 {"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1}	
 ],	
-lives:[{"group":"直播","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],	
-parses: [	
+
+"parses": [	
     {	
       "name": "解析聚合",	
       "type": 3,	
