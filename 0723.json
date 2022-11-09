@@ -3,7 +3,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[	
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuaXFpcS5pby9wYW9wYW9xaW5nL2RnemovbWFpbi9kZ3pqLnR4dA=="	
 ]}]}],	
-sites: [	
+"sites": [	
  {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/爱看影院.json"},
