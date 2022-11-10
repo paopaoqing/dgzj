@@ -7,7 +7,17 @@
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
 	
-{"key":"AV解说", "name":"AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://avss.vip/avjs"},	
+{"key":"AV解说", "name":"AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://avss.vip/avjs"},	 
+	{
+      "key": "csp_xpath_xxj",
+      "name": "7新香蕉(XP)",
+      "type": 3,
+      "api": "csp_XPathMacFilter",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "{\r\n\"ua\": \"\",\r\n\"homeUrl\": \"https://www.2024xxj.com\",\r\n\"cateNode\": \"//div[contains(@class,'wrap mt10 nav')]/ul[contains(@class,'nav_menu')]/li/a[contains(@href,'vod-type')]\",\r\n\"cateName\": \"/text()\",\r\n\"cateId\": \"/@href\",\r\n\"cateIdR\": \"/?m=vod-type-(\\\\w+)\",\r\n\"cateManual\": {},\r\n\"homeVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"homeVodName\": \"/h3/text()\",\r\n\"homeVodId\": \"/@href\",\r\n\"homeVodIdR\": \"\",\r\n\"homeVodImg\": \"/img/@src\",\r\n\"homeVodImgR\": \"\",\r\n\"cateUrl\": \"https://www.2024xxj.com/?m=vod-type-{cateId}-{catePg}.html\",\r\n\"cateVodNode\": \"//div[contains(@class,'box movie_list')]/ul/li/a\",\r\n\"cateVodName\": \"/h3/text()\",\r\n\"cateVodId\": \"/@href\",\r\n\"cateVodIdR\": \"\",\r\n\"cateVodImg\": \"/img/@src\",\r\n\"cateVodImgR\": \"\",\r\n\"dtUrl\": \"https://www.2024xxj.com/{vid}\",\r\n\"dtNode\": \"//body\",\r\n\"dtName\": \"//span[contains(@class,'cat_pos_l')]/h1/text()\",\r\n\"dtImg\": \"//div[contains(@class,'film_info clearfix')]/dl/dt/img/@src\",\r\n\"dtFromNode\": \"//div[contains(@class,'film_bar clearfix')]/strong/span\",\r\n\"dtFromName\": \"/text()\",\r\n\"dtUrlNode\": \"//div[contains(@class,'film_bar clearfix')]/ul\",\r\n\"dtUrlSubNode\": \"/li/a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"https://www.2024xxj.com/{playUrl}\",\r\n\"playUa\": \"\"\r\n}\r\n"
+    },
 	
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/香蕉视频.json"},
 {"key": "csp_xb_国产传媒","name": "国产传媒","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/gccmxxx.json"},
