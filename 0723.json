@@ -7,7 +7,7 @@
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
 	
-{"key":"AV解说", "name":"AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json","spider":"https://raw.iqiq.io/paopaoqing/dgzj/main/0723.jar"},	 
+{"key":"AV解说", "name":"AV解说", "type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	 
 		
 {"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/XB/香蕉视频.json"},
 {"key": "csp_xb_国产传媒","name": "国产传媒","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/gccmxxx.json"},
