@@ -7,9 +7,8 @@
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
 
-{"key":"香蕉直播", "name":"香蕉直播", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaozhibo.json"},	
-
-{"key":"香蕉AV解说", "name":"香蕉AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	
+{"key":"测试直播", "name":"测试直播", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaozhibo.json"},	
+{"key":"测试AV解说", "name":"测试AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	
 
 	
 {"key":"AV解说", "name":"AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext": "{\r\n\"站名\":\"香蕉AV解说\",\r\n\"主页url\":\"https://avss.vip/avjs/\",\r\n\"直接播放\":\"1\",\r\n\"分类\":\"水果πAV解说$sgp-AVJS\",\r\n\"数组\":\"<div class=\\\"item\\\"&&</div>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"/avjs/s&&.html\\\"\",\r\n\"链接前缀\":\"https://avss.vip/avjs/Splay\",\r\n\"链接后缀\": \"-1-1.html\",\r\n\"线路数组\":\"button-rounded&&/a>\",\r\n\"线路标题\":\">&&<\",\r\n\"搜索数组\":\"<div class=\\\"item\\\"&&</div>\",\r\n\"搜索图片\": \"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\": \"href=\\\"/avjs/s&&.html\\\"\",\r\n\"搜索模式\": \"1\",\r\n\"搜索url\":\"https://avss.vip/avjs/vod/search/page/{catePg}/wd/{wd}.html\",\r\n\"搜索链接前缀\":\"https://avss.vip/avjs/Splay\",\r\n\"搜索链接后缀\":\"-1-1.html\",\r\n\"分类url\":\"https://avss.vip/avjs/{cateId}-{catePg}.html\",\r\n\"免嗅\":\"1\",\r\n\"嗅探词\":\".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma\"\r\n}"},
