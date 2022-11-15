@@ -111,7 +111,6 @@
 {"key": "乐鱼","name": "乐鱼","type": 0,"api": "https://www.leyuzyapi.com/inc/zyapimac.php","playUrl": "https://player.leyuzy.net/?url=","searchable": 0,"quickSearch": 0,"filterable": 0},   
 {"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 { "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key": "饮水机","name": "饮水机","type": 0,"api": "https://www.xrbsp.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Hsck","name":"黄色仓库(爬虫)","type":3,"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
 {"key":"csp_xBPQ_av1","name":"av1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/av1xxx.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/aikanxxx.json"},
