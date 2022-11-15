@@ -167,21 +167,10 @@
         "秋雨分享": "https://share.laowang.me",
         "讯维云盘": "https://pan.xwbeta.com",
 	 "神器云": "https://quanzi.laoxianghuijia.cn",
-         "小江": "https://dyj.me",
-         "小光盘": "https://alist.xiaoguanxiaocheng.life",
         "资源小站": "https://960303.xyz/",
-	"菊花盘": "https://pan.142856.xyz",
-	"轻弹浅唱": "https://g.xiang.lol",
-	"嗨翻": "https://pan.hikerfans.com",
-	"梓溥妙妙屋": "https://xn--i0v44m.xyz",
-	"管非盘": "http://www.feifwp.top",
 	"铃星梦": "https://pan.bashroot.top",
-	"AUNEY": "http://121.227.25.116:8008",
-	"fenwe": "http://www.fenwe.tk:5244",
-        "自群":"http://101.34.67.237:5244/",
-        "迈立":"http://myalist.site/",
-        "帅仔1":"http://43.139.29.179:5244/",
-        "帅仔2":"http://43.139.29.179:5245/"
+	"菊花盘": "https://pan.142856.xyz"
+
    }
     },
 {"key":"csp_biubiu_tingshuxb","name":"🎧听  书  网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json"},
