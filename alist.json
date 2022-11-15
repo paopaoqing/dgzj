@@ -195,9 +195,8 @@
   "迈立":"http://myalist.site/",
   "帅仔1":"http://43.139.29.179:5244/",
   "帅仔2":"http://43.139.29.179:5245/",
-  "云播放":"https://quanzi.laoxianghuijia.cn"
-	      
-      }
+  "云播放":"https://quanzi.laoxianghuijia.cn" 
+   }
     },
 {"key":"csp_biubiu_tingshuxb","name":"🎧听  书  网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json"},
 {"key": "解说","name": "🅱️电影解说（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/38532/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0"},
