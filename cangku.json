@@ -31,9 +31,8 @@
 { "url": "http://xn--4bra.live/%E7%8C%AB", "name":"刚刚4"},
 { "url": "http://刚刚.live/A佬","name":"刚刚5-pluto-player兼容"},
 
-//云星日记【微信公众号：云星测评】
- { "url": "https://maoyingshi.cc", "name":"云星日记"},
- { "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8", "name":"猫影TV盒"},
+//云星日记【微信公众号：云星测评】https://maoyingshi.cc
+ { "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8", "name":"云星日记"},
  { "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json", "name":"云星哔哩哔哩" },
  { "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name":"云星阿里"},
 
