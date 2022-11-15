@@ -171,22 +171,6 @@
             "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/动漫岛.json"
         },
  
-{ 
- "key": "csp_xBPQ_快看影视", 
- "name": "xBPQ | 快看影视", 
- "type": 3, 
- "api": "csp_xBPQ", 
- "searchable": 1, 
- "quickSearch": 1, 
- "filterable": 0, 
- "ext": "{ 
-\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\", 
-\"分类\":\"电影$dianying#电视剧$lianxuju#综艺$zongyi#动漫$dongman\", 
-\"分类url\":\"http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html\", 
-\"免嗅\": \"0\", 
-\"副标题\":\"class=\\\"score\\\">&&</span>\", 
-\"播放数组\":\"class=\\\"playlist&&</ul>\"}",
-"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
 
 {"key":"nkdyw","name":"xBPQ | 南柯电影","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"https://agit.ai/1452635819/h/raw/branch/master/XPB/nkdywPQ.json"
