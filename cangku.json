@@ -79,7 +79,8 @@
 
 {"url": "https://freetvbox.ml/api/qy.txt","name":"晴园"},
 
-
+{"url": "https://raw.iqiq.io/paopaoqing/dgzj/main/alist.json","name":"Alist合集"},
+	    
 //以下福利接口：
 
 {"url": "http://52bsj.vip:98/18dxwoai","name":"福利接口1"},
