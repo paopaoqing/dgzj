@@ -1,4 +1,5 @@
-{"sites": [
+{"spider": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ1107.jar",
+"sites": [
 {
       "key": "csp_Alist",
       "name": "🗂Alist合集",
@@ -195,6 +196,5 @@
     }
   ]
  } 
-],
-"spider": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ1107.jar"
- }
+]
+}
