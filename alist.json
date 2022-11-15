@@ -170,38 +170,7 @@
             "filterable":0,
             "ext":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/XBPQ/动漫岛.json"
         },
-
-{
-"key": "csp_xBPQ_野荷塘",
-"name": "xBPQ | 野荷塘影视",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-	"ext": "{
-\"免嗅\":\"0\",
-
-\"嗅探词\": \"m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#.mp4#item/video#is_play_url=1\",
-
-\"副标题\": \"vod_remarks*>&&<\",
-
-\"播放数组\": \"mdui-panel-item-body&&</div\",
-\"线路数组\": \"mdui-panel-item-title&&/div\",
-
-
-\"分类\":\"国产电视剧$13#电视剧$2#电影$1#动漫$4#综艺$3\",
-
-\"分类url\":\"https://yehetang.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html\",
-
-\"年份\":\"2000-2022\",
-\"筛选\":\"1\"
-}",
-"jar":"https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/106xbpq.jar"},
-
-
-
-  
+ 
 { 
  "key": "csp_xBPQ_快看影视", 
  "name": "xBPQ | 快看影视", 
@@ -307,27 +276,6 @@
             "ext":"https://agit.ai/zzzlllmmm1/Q2/raw/branch/master/xBPQ/jipinys.json"
         },
         
-{
-    "key": "csp_xBPQ_牛马tv影视",
-    "name": "xBPQ | 牛马影视",
-    "type": 3,
-    "api": "csp_xBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "{
-\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
-\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
-\"播放标题\":\">&&<\",
-\"线路数组\": \"class=\\\"more text-muted pull-right\\\">&&/h3>\",
-\"线路标题\": \"\\\">&&<\",
-\"分类\":\"国产剧(我)$guochanju#电视剧(❤️)$dianshiju#动漫(祖)$dongman#电影(国)$dianying#综艺(🇨🇳)$zongyi\",
-\"分类url\":\"https://www.niumatv.cc/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html\",
-\"年份\":\"2000-2022\",
-\"筛选\":\"1\"
-}",
-
-"jar": "https://agit.ai/zzzlllmmm1/zzzlllmmm/raw/branch/master/jar/xBPQ.jar"},
     
 {"key":"mtv_pc_yinfans","name":"音范丝(蓝光磁力)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
 
