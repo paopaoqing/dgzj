@@ -58,41 +58,11 @@
       "filterable": 1
     },
 
-{"key": "Gitcafe1","name": "️小 纸 条1（云盘）","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext":"https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json","jar":"https://gitee.com/zzzlllmmm1/a1/raw/master/Ross.jar"
-},
 
-{"key":"FindZY1", "name":"找资源(仅搜索)", "type":3, "api":"csp_Zhaozy", "searchable":1, "quickSearch":1, "filterable":1,"jar":""},
-{"key":"AliPS1", "name":"盘搜(仅搜索)", "type":3, "api":"csp_AliPS", "searchable":1, "quickSearch":1, "filterable":1,"jar":""},
-{"key":"Upyunso1","name":"云 搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":""},
+{"key":"Upyunso1","name":"云搜(仅搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0, "jar":""},
 {"key": "yisou1", "name": "易搜(仅搜索)",  "type": 3,"api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0},
+{"key": "upyunsou", "name": "Up云搜(仅搜索)", "type": 3,"api": "csp_Upyunso", "searchable": 1, "quickSearch": 1,  "playerType": 1, "filterable": 0,  "ext": "token;asc","jar": "http://home.jundie.top:81/jar/top98.jar"}, 
 
-{"key": "Yiso","name": "易搜(仅搜索)","type": 3,"api": "csp_Yiso",	"searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"
-}, 
- { "key": "AliPS",  "name": "盘搜(仅搜索)", "type": 3, "api": "csp_AliPS","searchable": 1, "playerType": 1, "quickSearch": 1, "filterable": 1,"jar": "http://home.jundie.top:81/jar/top98.jar"
-    },
-    
-         
-         
-{"key":"csp_Alips","name":"喵搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
-	
-{ "key": "upyunsou", "name": "Up云搜(仅搜索)", "type": 3,"api": "csp_Upyunso", "searchable": 1, "quickSearch": 1,  "playerType": 1, "filterable": 0, 
- "ext": "token;asc","jar": "http://home.jundie.top:81/jar/top98.jar"}, 
-    
-{"key": "zhaozy","name": "找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,
- "ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"}, 
-
-		
- { "key":"push_agent1", "name":"📨推送（爱优腾/阿里云盘/磁力链接）", "type":3, "api":"csp_PushAgent", "searchable":0, "quickSearch":0, "filterable":0, "jar":"" },
-
- { "key":"csp_xpath_clss", "name":"磁力搜索", "type":3, "api":"csp_XPathFilter", "searchable":1, "quickSearch":1, "filterable":1,
- "ext":"https://agit.ai/qi169/My9394/raw/branch/master/json/%e7%a3%81%e5%8a%9b%e6%90%9c%e7%b4%a2.json" },
-
-{"key": "push_agent","name": "🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,
-"ext": "https://agit.ai/zzzlllmmm1/Q/raw/branch/master/alitoken.json"},
-	
 {"key":"mtv_pc_yinfans","name":"音范丝(蓝光磁力)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
  "ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
 
@@ -180,7 +150,6 @@
 {"key":"csp_biubiu_tingshuxb","name":"听书网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/听书网.json"},
 {"key": "解说","name": "🅱️电影解说（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/38532/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0"},
 {"key": "UP主","name": " 🅱️UP主（B站）","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/17090/%E5%90%BE%E7%88%B1UP%E4%B8%BB%E5%90%88%E9%9B%86.json?sign=DeQdPrG46oni5nhoRk_RENrU0Mp6jGaD6jMUFh_ung4%3D%3A0"},
-{"key":"csp_BBB2","name":"🅱️美女（B站）","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext": "https://pan.szfx.top/down.php/32513daeb15d6e0f10f9cdca41be1798.txt"},
 {"key": "教程","name": "🅱️教程合集（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"},	
 {"key": "学堂","name": "🅱️学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/学堂.json"}
 ],
