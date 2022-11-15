@@ -63,10 +63,7 @@
 {"key": "yisou1", "name": "易搜(仅搜索)",  "type": 3,"api": "csp_Yisou", "searchable": 1, "quickSearch": 1, "playerType": 1, "filterable": 0},
 {"key": "upyunsou", "name": "Up云搜(仅搜索)", "type": 3,"api": "csp_Upyunso", "searchable": 1, "quickSearch": 1,  "playerType": 1, "filterable": 0,  "ext": "token;asc","jar": "http://home.jundie.top:81/jar/top98.jar"}, 
 
-{"key":"mtv_pc_yinfans","name":"音范丝(蓝光磁力)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,
- "ext":"http://刚刚.live/jar2/tvjs/yinfans.json"},
-
-   {
+  // {
       "key": "csp_XBPQ_asad",
       "name": "xBPQ | ceshi",
       "type": 3,
