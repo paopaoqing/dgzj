@@ -4,17 +4,20 @@
  
  
  
-   {
+//月光宝盒BOX内置接口1012【有PY源】【微信公众号：月光宝盒BOX】
+	{
        "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
        "name": "月光宝盒家庭版",
        "time": "2022-08-26 02:00:00"
    },
       
       
-   
+ //猫影视懒人版-喵大神【微信公众号：太阳视界】
+{"url":"http://miaotvs.cn/meow","name":"猫影视懒人版-喵大神"},
+
        {
            "url": "http://miaotvs.cn/osc",
-           "name": "猫影视家庭版线路",
+           "name": "猫影视/太阳视界家庭版线路",
            "time": "2022-08-26 02:00:00"
        },
        {
@@ -24,21 +27,104 @@
        },
 
   
-        { "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json", "name": "老刘备家庭版副线二" },
- { "url": "http://js.134584.xyz/json/pp87.json", "name": "白嫖影视家庭版线路" },
- 
- 
- { "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt", "name": "佰欣园主线" }, { "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园副线" }, 
 
- { "url": "https://神器每日推送.tk/pz.json", "name": "神器每日推送线路" }, 
+//吾爱【微信公众号：吾爱有三日月与卿，回复接口】【宝盒优质线路/月光宝盒推荐线路】
 { "url": "http://52bsj.vip:98/wuai", "name": "🌟吾爱️线路🌟" }, 
- 
- { "url": "https://download.kstore.space/download/2863/01.txt", "name": "潇洒日记线路" }, 
+{"url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0","name":"吾爱1"},
+"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"吾爱2"},
+{"url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0","name":"哔哩接口"},
+{"url": "http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0","name":"网盘+alist接口"},
+{"url": "http://45.125.46.61/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json","name":"bili学习"},
+
+
+ //分享迷1【微信公众号：分享迷，回复接口】
+ {"url": "http://byyds.top/w.txt", "name":"分享迷1"},
+ {"url": "http://fcys.xyz/1011/meow.txt", "name":"分享迷2"},
+
+
+
+//刚刚
+{ "url": "http://刚刚.live/猫", "name":"刚刚1"},
+{ "url":"http://xn--4bra.live/猫", "name":"刚刚2"},
+{ "url":"http://xn--4bra.live/gg.json", "name":"刚刚3"},
+{ "url": "http://xn--4bra.live/%E7%8C%AB", "name":"刚刚4"},
+{ "url": "http://刚刚.live/A佬","刚刚5-pluto-player兼容"},
+
+//云星日记【微信公众号：云星测评】
+ { "url": "https://maoyingshi.cc", "name":"云星日记【微信公众号：云星测评】"},
+ { "url": "http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8", "name":"猫影TV盒"},
+ { "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json", "name":"云星哔哩哔哩" },
+ { "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name":"云星阿里"},
+
+//电视免VIP/星辰影视1【微信公众号：电视免VIP】
+ {"url": "http://47.242.90.42:8888/down/BJZPa8THuiE9", "name":"电视免VIP/星辰影视1"},
+ {"url":" http://47.242.90.42:8888/down/2YPZ9Cq8lp8L","name":"电视免VIP/星辰影视2"},
+
+
+//应用多多【微信公众号：应用多多，回复接口】
+{"url": "https://gitlab.com/duomv/duo/-/raw/main/v.json","name":"应用多多"},
+
+
+//神器每日推送【微信公众号：神器每日推送】
+{"url": "https://神器每日推送.tk/pz.json","name":"神器每日推送线路"},
+
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json", "name": "老刘备家庭版副线二" },
+
+
+//白嫖影视家庭版线路/白嫖影视/影酷线
+{ "url": "http://js.134584.xyz/json/pp87.json", "name": "白嫖影视家庭版线路" },
+
+{ "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt", "name": "佰欣园主线" }, 
+{ "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园副线" }, 
+
+{ "url": "https://download.kstore.space/download/2863/01.txt", "name": "潇洒日记线路" }, 
 
 { "url": "http://s.nxw.so/vip", "name": "凯速2863" },
- 
- { "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "HDXY线路" },
- { "url": "http://miaotvs.cn/osc", "name": "太阳视界家庭版线路" }
+
+{ "url": "https://agit.ai/n/b/raw/branch/a/b/c.json", "name": "HDXY线路" },
+
+{"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo. json","name":"小苹果影视盒子线路二"},
+{"url": "https://share.nite07.com/api/v3/file/source/20889/boxzy.json?sign=4zM1VDZ3fmEr6yQAsULp_PMzzyLguYN9wKwDP5Bq4hY%3D%3A0","name":"小苹果影视盒子线路一"},
+
+{ "url": "http://fcys.xyz/924/m.json", "name":"精灵TV"},
+
+{"url":" http://120.53.102.254/tvb/","name":"懒人线路"},
+
+{"url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json","name":"甜蜜线路"},
+
+{"url": "https://agit.ai/comeonbaby0122/Q/raw/branch/master/Q.json","name":"comeonbaby0122线路"},
+
+{"url": "https://cdn.staticaly.com/gh/YuanHsing/freed/master/TVBox/meow.json","name":"YuanHsing"},
+
+{"url": "https://dxawi.github.io/0/0.json","name":"dxawi"},
+
+{"url":" https://kjsc0310.github.io/tvy/jk9.json","name":"kjsc0310"},
+
+{"url": "https://agit.ai/n/b/raw/branch/a/b/c.json","name":"缓冲99"},
+
+{"url": "https://raw.liucn.cc/box/m.json","name":"luckyliuc"},
+
+{"url": "http://0454dt.com/tvbox","name":"二哈线路",},
+
+{"url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json","name":"pinkbird"},
+
+{"url": "https://freetvbox.ml/api/qy.txt","name":"晴园"},
+
+
+//以下福利接口：
+{"url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json","name":"福利接口1"},
+
+{"url": "http://52bsj.vip:98/18dxwoai","name":"福利接口2"},
+
+{"url":" https://agit.ai/guot54/ygbh/raw/branch/master/plus/PRO.json","name":"月光宝盒个人线路"},
+
+{"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/18.json","name":"佰欣园个人一线"},
+
+{"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/福利接口.txt","name":"佰欣园个人二线"},
+
+{"url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg","name":"未知线路"},
+
+{"url": "https://raw.iqiq.io/Wzs1973/Wzs1973.github.io/main/JS/18/18.txt", "name":"Wzs1973" }
     ],
     "vip": [
         {
