@@ -6,15 +6,10 @@
 "sites": [	
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
-{
-      "key": "VIPlive",
-      "name": "mylive",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=https://raw.iqiq.io/paopaoqing/dgzj/main/dgzj.txt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
+//懒人解析直播分类，有点慢
+//{"key": "VIPlive", "name": "mylive","type": 4,"api": "http://120.53.102.254/live?url=https://raw.iqiq.io/paopaoqing/dgzj/main/dgzj.txt", "searchable": 1, "quickSearch": 1, "filterable": 1},
+
 {"key":"测试直播", "name":"测试直播", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaozhibo.json"},	
 {"key":"测试AV解说", "name":"测试AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	
 	
