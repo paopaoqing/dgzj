@@ -1,24 +1,4 @@
-$MyCamTV adult iptv,#genre#
-MyCamTV Anal[1280*720],http://live.mycamtv.com/anal.m3u8
-MyCamTV Arab Girls[1280*720],http://live.mycamtv.com/arab.m3u8
-MyCamTV Asian Girls[1280*720],http://live.mycamtv.com/asian.m3u8
-MyCamTV Big Ass Girls[1280*720],http://live.mycamtv.com/bigass.m3u8
-MyCamTV Big Ass[1280*720],http://live.mycamtv.com/defstream.m3u8
-MyCamTV Blonde Girls[1280*720],http://live.mycamtv.com/blonde.m3u8
-MyCamTV Blowjob[1280*720],http://live.mycamtv.com/blowjob.m3u8
-MyCamTV Brunette Girls[1280*720],http://live.mycamtv.com/brunette.m3u8
-MyCamTV Ebony Girls[1280*720],http://live.mycamtv.com/ebony.m3u8
-MyCamTV Girls Squirt[1280*720],http://live.mycamtv.com/squirt.m3u8
-MyCamTV Latina Girls[1280*720],http://live.mycamtv.com/latina.m3u8
-MyCamTV Mature[1280*720],http://live.mycamtv.com/bigtits.m3u8
-MyCamTV Medium Girls[1280*720],http://live.mycamtv.com/medium.m3u8
-MyCamTV MILF[1280*720],http://live.mycamtv.com/milf.m3u8
-MyCamTV Skinny Girls[1280*720],http://live.mycamtv.com/skinny.m3u8
-MyCamTV Teen Girls[1280*720],http://live.mycamtv.com/teen.m3u8
-MyCamTV White Girls[1280*720],http://live.mycamtv.com/white.m3u8
-MyCamTV Young Girls[1280*720],http://live.mycamtv.com/young.m3u8
-
-$other adult iptv,#genre#
+$adult iptv,#genre#
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 Babestation24,http://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
