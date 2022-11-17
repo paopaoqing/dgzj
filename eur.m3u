@@ -1,4 +1,5 @@
-﻿$欧美vod4,#genre#
+﻿#EXTM3U
+ $欧美vod4,#genre#
 #EXTINF:-1 group-title="欧美vod4",81311
 http://nanomid.org:8080/movie/tolga1981/tolga1981/81311.mp4
 #EXTINF:-1 group-title="欧美vod4",81312
