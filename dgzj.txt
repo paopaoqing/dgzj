@@ -1,4 +1,4 @@
-$ceshi,#genre#
+$fenz668,#genre#
 Public Agent,http://fenz668.top:80/live/pdd4800/vndjspd4t/2049.ts
 Fake Taxi,http://fenz668.top:80/live/pdd4800/vndjspd4t/2052.ts
 Family Strokes,http://fenz668.top:80/live/pdd4800/vndjspd4t/2051.ts
@@ -21,6 +21,7 @@ XY Plus+6 HD,http://fenz668.top:80/live/pdd4800/vndjspd4t/1993.ts
 Passion HD,http://fenz668.top:80/live/pdd4800/vndjspd4t/1992.ts
 HOT HD,http://fenz668.top:80/live/pdd4800/vndjspd4t/1990.ts
 
+$boxlion,#genre#
 PASSIEXXX,http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/16102
 BRAZZERS TV_By : masiptv.blogspot.com,http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/16073
 REDLIGHT HD_By : masiptv.blogspot.com,http://login.boxlion.nl:80/Cinegold569/9gsGrbWDDLfdg498/18370
@@ -75,7 +76,7 @@ XXX: XPLUS FETISH,http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86841.ts
 XXX: XPLUS MILF,http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86842.ts
 XXX: XPLUS SHEMALE,http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86843.ts
 
-$adult iptv,#genre#
+$other,#genre#
 A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
@@ -96,6 +97,16 @@ Visit-XTV,https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 взрослые922,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/922/index.m3u8
 взрослые923,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/923/index.m3u8
 ШЕЛК ТВ HD [18+],http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
+PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
+PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
+Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
+HustlerTV,http://78.83.191.18:8000/play/a078
+PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
+RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+
+
 
 $redtraffic adult iptv,#genre#
 Anal,http://live.redtraffic.xyz/anal.m3u8#http://cdn.redtraffic.net/anal.m3u8
