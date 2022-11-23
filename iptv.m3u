@@ -85,8 +85,6 @@ http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86843.ts
 
 #EXTINF:-1 group-title="other adult iptv",A3Bikini
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-#EXTINF:-1 group-title="other adult iptv",Babestation
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 #EXTINF:-1 group-title="other adult iptv",EropulsDE
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 #EXTINF:-1 group-title="other adult iptv",IBizaHDTV
@@ -101,8 +99,7 @@ https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 #EXTINF:-1 group-title="other adult iptv",Miami TV Mexico [18+]
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 group-title="other adult iptv",Visit-XTV
-https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
+
 
 #EXTINF:-1 group-title="other adult iptv",взрослые1073
 http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/1073/index.m3u8
@@ -131,15 +128,7 @@ http://195.154.185.179/xx_hot_tv/index.m3u8
 #EXTINF:-1 group-title="other adult iptv",PinkErotic4
 http://195.154.185.179/xx_venus_tv/index.m3u8
 #EXTINF:-1 group-title="other adult iptv",Russkaya_Noch
-http://46.174.83.66/Russkaya_Noch/video.m3u8
-#EXTINF:-1 group-title="other adult iptv",HustlerTV
-http://78.83.191.18:8000/play/a078
-#EXTINF:-1 group-title="other adult iptv",PinkoClub
-http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="other adult iptv",PinkoClub
-http://93.152.174.144:4000/play/pinkotv/index.m3u8
-#EXTINF:-1 group-title="other adult iptv",RedlightHD
-http://93.152.174.144:4000/play/privatetv1/index.m3u8
+
 
 #EXTINF:-1 group-title="redtraffic adult iptv",Anal
 http://live.redtraffic.xyz/anal.m3u8#http://cdn.redtraffic.net/anal.m3u8
