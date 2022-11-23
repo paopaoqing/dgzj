@@ -41,8 +41,6 @@ XXX: XPLUS MILF,http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86842.ts
 XXX: XPLUS SHEMALE,http://udashboard.vip:8080/live/YmQNEne6X3/L7ExWZM8vJ/86843.ts
 
 $other,#genre#
-A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Babestation,http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
 EropulsDE,https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
 IBizaHDTV,https://5ed5d165c218d.streamlock.net:441/free/Stream1/playlist.m3u8
 Miami TV Jenny For You [18+],https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
@@ -50,8 +48,6 @@ Miami TV Jenny Live (18+),http://59ec5453559f0.streamlock.net:1935/mexicotv/smil
 Miami TV Jenny Live [18+],https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
 Miami TV Latino [18+],https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
 Miami TV Mexico [18+],https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-ROUGE TV 720P [18+],http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-Visit-XTV,https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 взрослые1073,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/1073/index.m3u8
 взрослые147,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/147/index.m3u8
 взрослые527,http://193d1b23.kazmazpaz.org/iptv/VBHEYK7YS2PCUW/527/index.m3u8
@@ -65,10 +61,6 @@ jasmin_tv,http://195.154.185.179/xx_nuart_tv/index.m3u8
 PinkErotic3,http://195.154.185.179/xx_hot_tv/index.m3u8
 PinkErotic4,http://195.154.185.179/xx_venus_tv/index.m3u8
 Russkaya_Noch,http://46.174.83.66/Russkaya_Noch/video.m3u8
-HustlerTV,http://78.83.191.18:8000/play/a078
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
-PinkoClub,http://93.152.174.144:4000/play/pinkotv/index.m3u8
-RedlightHD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
 
 $redtraffic adult iptv,#genre#
 Anal,http://live.redtraffic.xyz/anal.m3u8#http://cdn.redtraffic.net/anal.m3u8
