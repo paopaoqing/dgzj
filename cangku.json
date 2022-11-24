@@ -25,15 +25,15 @@
 
 //刚刚
 { "url": "http://刚刚.live/猫", "name":"刚刚1"},
-{ "url":"http://xn--4bra.live/猫", "name":"刚刚2"},
-{ "url":"http://xn--4bra.live/gg.json", "name":"刚刚3"},
-{ "url": "http://xn--4bra.live/%E7%8C%AB", "name":"刚刚4"},
-{ "url": "http://刚刚.live/A佬","name":"刚刚5-pluto-player兼容"},
+{ "url":"http://xn--4bra.live/gg.json", "name":"刚刚2"},
+//{ "url":"http://xn--4bra.live/猫", "name":"刚刚3"},
+//{ "url": "http://xn--4bra.live/%E7%8C%AB", "name":"刚刚4"},
+//{ "url": "http://刚刚.live/A佬","name":"刚刚5-pluto-player兼容"},
 
 //云星日记/可视TV【微信公众号：云星测评】https://maoyingshi.cc
- { "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8", "name":"云星日记"},
- { "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json", "name":"云星哔哩哔哩" },
- { "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name":"云星阿里"},
+{ "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8", "name":"云星日记家庭版"},
+{ "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json", "name":"云星哔哩哔哩" },
+{ "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","name":"云星阿里"},
 
 //电视免VIP/星辰影视1【微信公众号：电视免VIP】
  {"url":"http://8.210.220.114:8888/down/c9s9YQVDdqYw.json","name":"电视免VIP/星辰影视"},
