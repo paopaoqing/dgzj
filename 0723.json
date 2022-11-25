@@ -55,8 +55,6 @@
 
 {"key": "csp_xBPQ_西瓜","name":"西瓜", "type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,   "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xjsp.json"},
-{"key": "csp_xBPQ_麻豆女优", "name":"麻豆女优", "type": 3,    "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1, "playerType":2, 
- "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/madou1.json"},
 {"key": "csp_xBPQ_麻豆映画", "name":"麻豆映画", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/yinghua.json"},
 {"key":"csp_xBPQ_麻豆映画2","name":"麻豆映画2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
