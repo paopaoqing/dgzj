@@ -41,7 +41,7 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"detail-tab", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid", //播放截取的列表数组的前关键词
   "bfjiequshuzuhou": "</div> ", //播放截取的列表数组的后关键词
 
   "zhuangtaiqian": "空", //状态前关键词
