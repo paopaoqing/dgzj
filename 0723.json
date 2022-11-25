@@ -39,7 +39,6 @@
     },	
 
 //来自xiaomi128
-{"key": "csp_xf_18av","name": "️18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"playerType":2, "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/18av.json"},
 { "key": "csp_XYQHiker_猫咪", "name":"猫咪", "type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1, "playerType":2, "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/maomixxx.json"},
 { "key": "csp_XYQHiker_大香蕉", "name":"大香蕉", "type": 3,"api": "csp_XYQHiker", "searchable": 1,    "quickSearch": 1,    "filterable": 1,    "playerType":2,   "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/daxiangjxxx.json"},
 {"key": "csp_xBPQ_聚优直播", "name":"聚优直播", "type": 3,    "api": "csp_xBPQ",    "searchable": 1,    "quickSearch": 1,    "filterable": 1,   "playerType":2,    "ext":"https://cdn.staticaly.com/gh/xiaomi128/opp/main/juyou.json"},
