@@ -13,7 +13,7 @@
 "线路标题":">&&<",
 "搜索数组":"<div class=\"item\"&&</div>",
 "搜索图片": "data-original=\"&&\"",
-"搜索标题": "title=\\"&&\\"",
+"搜索标题": "title=\"&&\"",
 "搜索链接": "href=\"/xjzy/c&&.html\"",
 "搜索模式": "1",
 "搜索url":"https://avss.vip/xjzy/vod/search/page/{catePg}/wd/{wd}.html",
