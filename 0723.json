@@ -10,10 +10,14 @@
 //懒人解析直播分类，有点慢
 {"key": "VIPlive", "name": "mylive","type": 4,"api": "http://120.53.102.254/live?url=https://raw.iqiq.io/paopaoqing/dgzj/main/eur.txt", "searchable": 1, "quickSearch": 1, "filterable": 1},
 
-//聚优直播与香蕉直播同源
+//聚优直播、香蕉直播、天天直播同源
 {"key":"聚优直播", "name":"聚优直播", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/juyouzhibo.json"},
-
+{ "key": "csp_xBPQ_天天直播","name":"天天直播", "type": 3,    "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,
+ "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzb.json"},
+{"key": "csp_xBPQ_天天综合","name":"天天综合", "type": 3, "api": "csp_xBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType":2,
+ "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzh.json"},
+	
 {"key":"香蕉AV解说", "name":"香蕉AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	
 {"key": "csp_xBPQ_香蕉资源","name": "香蕉资源", "type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,
@@ -38,10 +42,7 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/huanggua.json"},
 {"key": "csp_xBPQ_avid", "name":"avid","type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,    "playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/avid.json"},
-{ "key": "csp_xBPQ_天天直播","name":"天天直播", "type": 3,    "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,
- "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzb.json"},
-{"key": "csp_xBPQ_天天综合","name":"天天综合", "type": 3, "api": "csp_xBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType":2,
- "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzh.json"},
+
 {"key": "csp_xBPQ_西瓜","name":"西瓜", "type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,   "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xjsp.json"},
 {"key": "csp_xBPQ_麻豆女优", "name":"麻豆女优", "type": 3,    "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1, "filterable": 1, "playerType":2, 
