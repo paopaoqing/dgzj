@@ -2,7 +2,7 @@
 "站名":"性欲轮回[分类]",
 "主页url":"https://singyulh.info/",
 "直接播放":"1",
-"数组":"<div class=\"item-box\"&&</div>",
+"数组":"class=\"item-box&&</section>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
@@ -12,24 +12,5 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 
- 
- 
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空"
+
 }
