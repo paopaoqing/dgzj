@@ -11,7 +11,7 @@
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"col-md-2 resent-grid recommended-grid sports-recommended-grid",
+"jiequshuzuqian": "class=\"resent-grid-info recommended-grid-info video-info-grid",
 "jiequshuzuhou": "</div>",
 "tupianqian": "src=\"",
 "tupianhou": "\"",
@@ -20,3 +20,5 @@
 "lianjieqian": "href=\"",
 "lianjiehou": "\""
 }
+
+
