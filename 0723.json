@@ -63,8 +63,12 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/bananxxx.json"},
 {"key": "csp_xb_国产传媒","name": "国产传媒", "type": 3,  "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/gccmxxx.json"},
-{"key":"csp_xb_国产视频","name":"国产视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
+
+{"key":"csp_xBPQ_国产视频","name":"国产视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/gcspxxx.json"},
+{"key":"csp_xBPQ_中文ZW","name":"中文ZM","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
+ "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/zwzmxxx.json"},
+	
 {"key": "csp_xBPQ_精东影业", "name":"精东影业","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/jingdong1.json"},
 {"key": "csp_xBPQ_精东影视", "name":"精东影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
@@ -73,8 +77,7 @@
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/jdyyxxx.json"},
 {"key":"csp_xBPQ_精东影视","name":"精东影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/jdyy1xxx.json"},
-{"key":"csp_xBPQ_中文ZW","name":"中文ZM","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/zwzmxxx.json"},
+
 {"key":"csp_xBPQ_四虎","name":"四虎影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/sihuxxx.json"},
 {"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
