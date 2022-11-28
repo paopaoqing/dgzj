@@ -66,18 +66,9 @@
 {"key": "csp_xb_精东影视2","name": "精东影视(XB)", "type": 3,  "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/jingdong2.json"},
 	
-{"key":"csp_xBPQ_四虎","name":"四虎影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/sihuxxx.json"},
-{"key":"csp_xBPQ_性欲分类","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh1xxx.json"},
-{"key":"csp_XBiubiu_小丑撸","name":"小丑撸","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xcl.json"},
-
-//来自xiaomi128
-{"key": "drpy_js_猫了个咪","name": "猫了个咪[DRPY]", "type": 3, "playerType":2, "api": "https://cdn.staticaly.com/gh/xiaomi128/ztv/master/lib/drpy.min.js","ext": "https://cdn.staticaly.com/gh/xiaomi128/opp/main/mlgmxxx.js"},
-{"key": "drpy_js_养端",  "name": "养端DRPY]","type": 3,  "playerType":2,"api": "https://cdn.staticaly.com/gh/xiaomi128/ztv/master/lib/drpy.min.js", "ext": "https://cdn.staticaly.com/gh/xiaomi128/opp/main/yangdxxx.js"},
-{"key":"csp_Hsck","name":"黄色仓库(爬虫)","type":3,"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"},
-
+{"key":"csp_xBPQ_四虎","name":"四虎影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/sihuxxx.json"},
+{"key":"csp_xBPQ_性欲分类","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh1xxx.json"},
+{"key":"csp_XBiubiu_小丑撸","name":"小丑撸","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xcl.json"},
 	
 {"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "富二代","name": "富二代（仅支持搜索）","type": 0,"api": "http://f2dcj6.com/sapi/?ac=videolist","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -91,7 +82,6 @@
 {"key":"大MM资源","name":"大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"香奶儿源","name":"香奶儿源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"白嫖资源","name":"白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":0,"quickSearch":0},
-{"key": "乐鱼","name": "乐鱼","type": 0,"api": "https://www.leyuzyapi.com/inc/zyapimac.php","playUrl": "https://player.leyuzy.net/?url=","searchable": 0,"quickSearch": 0,"filterable": 0},   
 {"key": "美少女","name": "美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"水蜜桃","name":"水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
@@ -108,11 +98,8 @@
 {"key":"天噜啦资源","name":"天噜啦资源","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":1,"quickSearch":0},
 {"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"速","name":"哥哥妹妹","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
-{"key":"佳丽资源","name":"佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"SB资源","name":"SB资源","type":0,"api":"http://www.shabizy.com:777/inc/sea","searchable":1,"quickSearch":0},
 {"key":"zp116","name":"泡芙资源","type":0,"api":"http://zmcj88.com/api?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"字幕网","name":"字幕网(切)","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"金莲资源","name":"金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"52AV资源","name":"52AV资源","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"老鸭资源","name":"老鸭资源","type":0,"api":"https://api.apilyzy.com/api.php/provide/vod/at/xml","playUrl":"https://player.77lehuo.com/aliplayer/?url=","searchable":1,"quickSearch":1,"filterable":0},
