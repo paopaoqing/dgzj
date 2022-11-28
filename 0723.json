@@ -68,7 +68,6 @@
 	
 {"key":"csp_xBPQ_四虎","name":"四虎影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/sihuxxx.json"},
 {"key":"csp_xBPQ_性欲分类","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh1xxx.json"},
-{"key":"csp_XBiubiu_小丑撸","name":"小丑撸","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xcl.json"},
 	
 {"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "富二代","name": "富二代（仅支持搜索）","type": 0,"api": "http://f2dcj6.com/sapi/?ac=videolist","searchable": 1,"quickSearch": 1,"filterable": 0},
