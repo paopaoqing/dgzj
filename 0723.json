@@ -46,7 +46,7 @@
 
 {"key": "csp_xBPQ_黄瓜视频", "name":"黄瓜视频","type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,  "playerType":2,  
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/huanggua.json"},
-//{"key": "csp_xBPQ_avid", "name":"avid","type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,    "playerType":2,
+{"key": "csp_xBPQ_avid", "name":"avid","type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,    "playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/avid.json"},
 {"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/aikanxxx.json"},
