@@ -1,3 +1,17 @@
+1,#genre#
+玩家频道,https://315600.xyz/hatv.php?id=401
+HAPPY,https://315600.xyz/hatv.php?id=402
+HOT,https://315600.xyz/hatv.php?id=403
+松视4,https://315600.xyz/hatv.php?id=404
+松视1,https://315600.xyz/hatv.php?id=405
+松视2,https://315600.xyz/hatv.php?id=406
+松视3,https://315600.xyz/hatv.php?id=407
+彩虹频道,https://315600.xyz/hatv.php?id=408
+樂活频道,https://315600.xyz/hatv.php?id=410
+潘朵拉玩美,https://315600.xyz/hatv.php?id=411
+潘朵拉粉紅,https://315600.xyz/hatv.php?id=412
+驚豔台,https://315600.xyz/hatv.php?id=413
+香蕉台,https://315600.xyz/hatv.php?id=414
 🔞测试,#genre#
 彩虹e台,p2p://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
 彩虹電影台,p2p://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
