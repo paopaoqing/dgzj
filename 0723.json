@@ -71,7 +71,7 @@
 "key": "drpy_js_喵了个咪", 
 "name": "🔞喵了个咪[请使用365解析]", 
 "type": 3, 
-"api": "https://ghproxy.com/https://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
+"api": "https://ghproxy.com/http://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
 "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
  }, 
 
@@ -113,7 +113,7 @@
 "key": "drpy_js_养端", 
 "name": "🔞养端（DRPY）", 
 "type": 3, 
-"api": "https://ghproxy.com/https://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
+"api": "https://ghproxy.com/http://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
 "ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js"
 }, 
 {
@@ -967,16 +967,7 @@
 "quickSearch":0,
 "filterable":0
 },
-{
-"key":"2345_spider",
-"name":"2345（以下重复）",
-"type":3,
-"api":"csp_YS2345",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":"https://gitee.com/xuexing007/cs/raw/master/2345.bmp"
-},
+
 {
 "key":"zp029",
 "name":"JAV名优",
@@ -1087,8 +1078,7 @@
 },
 {
 "key":"zp065",
-"name":"花椒,
-",
+"name":"花椒",
 "type":0,
 "api":"https://apihjzy.com/api.php/provide/vod/at/xml/",
 "searchable":1,
