@@ -551,13 +551,24 @@
 "filterable":0
 },
 {
+"key":"*小姐姐资源",
+"name":"*小姐姐资源",
+"type":0,
+"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
+"searchable":1,
+"quickSearch":1,
+"filterable":0
+},
+{
 "key":"点点娱乐",
 "name":"点点娱乐",
 "type":0,
-"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml",
+"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
 "searchable":1,
-"quickSearch":0
+"quickSearch":1,
+"filterable":0
 },
+
 //采集系列
 {
 "key":"亚洲成人在线",
@@ -689,6 +700,7 @@
 "quickSearch":1,
 "filterable":0
 },
+
 {
 "key":"影库资源",
 "name":"影库资源",
@@ -698,15 +710,7 @@
 "quickSearch":1,
 "filterable":0
 },
-{
-"key":"点点",
-"name":"点点",
-"type":0,
-"api":"https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml",
-"searchable":1,
-"quickSearch":1,
-"filterable":0
-},
+
 {
 "key":"屌丝",
 "name":"屌丝",
@@ -764,15 +768,7 @@
 "quickSearch":1,
 "filterable":0
 },
-{
-"key":"*小姐姐资源",
-"name":"*小姐姐资源",
-"type":0,
-"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml",
-"searchable":1,
-"quickSearch":1,
-"filterable":0
-},
+
 {
 "key":"*52AVAV",
 "name":"*52AVAV",
@@ -850,14 +846,6 @@
 },
 
 
-{
-"key":"91麻豆",
-"name":"91麻豆源",
-"type":1,
-"api":"https://91md.me/api.php/provide/vod/",
-"searchable":0,
-"quickSearch":0
-},
 
 {
 "key":"*皇冠资源",
