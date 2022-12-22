@@ -1,28 +1,22 @@
-1,#genre#
-玩家频道,https://315600.xyz/hatv.php?id=401
-HAPPY,https://315600.xyz/hatv.php?id=402
-HOT,https://315600.xyz/hatv.php?id=403
-松视4,https://315600.xyz/hatv.php?id=404
-松视1,https://315600.xyz/hatv.php?id=405
-松视2,https://315600.xyz/hatv.php?id=406
-松视3,https://315600.xyz/hatv.php?id=407
-彩虹频道,https://315600.xyz/hatv.php?id=408
-樂活频道,https://315600.xyz/hatv.php?id=410
-潘朵拉玩美,https://315600.xyz/hatv.php?id=411
-潘朵拉粉紅,https://315600.xyz/hatv.php?id=412
-驚豔台,https://315600.xyz/hatv.php?id=413
-香蕉台,https://315600.xyz/hatv.php?id=414
-🔞测试,#genre#
-彩虹e台,p2p://ns3.hellotvvod.com:9906/f25bdd85818748688189670f3a6b22c2
-彩虹電影台,p2p://ns3.hellotvvod.com:9906/3d057a573d1f443e9b5b875de1bdf608
-LOOK TV,p2p://ns3.hellotvvod.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
-潘朵啦玩美台,p2p://ns3.hellotvvod.com:9906/920530a511934ff980a0bc4ffb64f51c
-惊艳成人电影台,p2p://ns3.hellotvvod.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
-松視1台,p2p://ns3.hellotvvod.com:9906/b220e1df95e141188def1de2d1a3507e
-松視2台,p2p://ns3.hellotvvod.com:9906/d4e997cdc91b4506bf391e7222b77abc
-PLAYBOY,p2p://ns3.hellotvvod.com:9906/a5480458bcb946b18d21b751db08a8e1
-香蕉台,p2p://ns3.hellotvvod.com:9906/91088314de8b461ba3aaa1f27ae3732b
-松視3台,p2p://ns3.hellotvvod.com:9906/6c96963b9c974eb88da6ff55f3b77773
-JStar極限台,p2p://ns3.hellotvvod.com:9906/9ca49d959a29450fbc3f7766f7769e54
-HAPPY,p2p://ns3.hellotvvod.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
-K,p2p://ns3.hellotvvod.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+18+頻道_88,#genre#
+彩虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
+PLAYBOY,P2p://generationnexxxt.com:9906/a5480458bcb946b18d21b751db08a8e1
+香蕉台,P2p://generationnexxxt.com:9906/91088314de8b461ba3aaa1f27ae3732b
+J Star,P2p://generationnexxxt.com:9906/9ca49d959a29450fbc3f7766f7769e54
+HAPPY,P2p://generationnexxxt.com:9906/558344159fd74ed2bf8e4cc925a0eb1f
+K,P2p://generationnexxxt.com:9906/59281d33d7d24944abcf3d4aa0ed524c
+虹頻道,P2p://generationnexxxt.com:9906/f25bdd85818748688189670f3a6b22c2
+彩虹電影,P2p://generationnexxxt.com:9906/3d057a573d1f443e9b5b875de1bdf608
+LOOK TV,P2p://generationnexxxt.com:9906/7a5ddc086a3d459f8adea3597c9f7d60
+潘朵拉,P2p://generationnexxxt.com:9906/920530a511934ff980a0bc4ffb64f51c
+驚豔台,P2p://generationnexxxt.com:9906/d3fb9dd99d004118a5eb9f98dd20b053
+松視1,P2p://generationnexxxt.com:9906/b220e1df95e141188def1de2d1a3507e
+松視2,P2p://generationnexxxt.com:9906/d4e997cdc91b4506bf391e7222b77abc
+松視3,P2p://generationnexxxt.com:9906/6c96963b9c974eb88da6ff55f3b77773
