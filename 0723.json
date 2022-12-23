@@ -15,7 +15,7 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/juyouzhibo.json"},
 { "key": "csp_xBPQ_天天直播","name":"天天直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzb.json"},
-{ "key": "csp_xBPQ_天天解说","name":"天天解说", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,
+{ "key": "csp_biubiu_天天解说","name":"天天解说", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzhjs.json"},
 {"key": "csp_xBPQ_天天综合中文资源","name":"天天综合中文资源", "type": 3, "api": "csp_xBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzh1.json"},
