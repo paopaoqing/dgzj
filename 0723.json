@@ -29,20 +29,7 @@
 
 {"key":"香蕉AV解说", "name":"香蕉AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/shuiguopai.json"},	
-{"key": "csp_xBPQ_香蕉资源","name": "香蕉资源", "type": 3, "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaoziyuan.json"},
-{"key": "csp_xBPQ_香蕉超清资源",  "name": "香蕉超清资源","type": 3,  "api": "csp_xBPQ", "searchable": 1,"quickSearch": 1, "filterable": 0, 
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaochaoqingziyuan.json" },
-{"key": "csp_xBPQ_香蕉国产传媒","name": "香蕉国产传媒", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaoguochang.json"},
-{"key": "csp_xBPQ_香蕉久久热", "name": "香蕉久久热", "type": 3, "api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaojiujiure.json"},
-{ "key": "csp_xBPQ_香蕉废柴网","name": "香蕉废柴网","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 0,
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaofeicai.json"},
-{ "key": "csp_xBPQ_香蕉直播", "name": "香蕉直播", "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1, "filterable": 0,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaozhibo.json"},
- {"key": "csp_xBPQ_香蕉资源搜索", "name": "香蕉资源搜索",  "type": 3,"api": "csp_xBPQ","searchable": 1,  "quickSearch": 1, "filterable": 0,
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xiangjiaosousuo.json"},	
+
 
 {"key": "csp_xBPQ_黄瓜视频", "name":"黄瓜视频","type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,  "playerType":2,  
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/huanggua.json"},
