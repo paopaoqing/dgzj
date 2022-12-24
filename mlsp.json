@@ -1,5 +1,8 @@
-﻿{"name": "香蕉视频",
-"url": "https://xx8888.cc/",
+﻿
+
+ {"name": "米拉视频",
+
+"url": "https://www.miladz.cc/",
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 //访问请求cookie
@@ -27,27 +30,28 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "人妻熟女$/index.php/vod/type/id/1/page/#偷拍自拍$/index.php/vod/type/id/2/page/#港韩情色$/index.php/vod/type/id/3/page/#丝袜制服$/index.php/vod/type/id/4/page/#青春少女$/index.php/vod/type/id/5/page/#辣妹大奶$/index.php/vod/type/id/34/page/#女同专属$/index.php/vod/type/id/35/page/#素人出演$/index.php/vod/type/id/36/page/#角色扮演$/index.php/vod/type/id/37/page/#成人动漫$/index.php/vod/type/id/38/page/#变态另类$/index.php/vod/type/id/39/page/",
+"fenlei": "快撸国产$/vodtype/7-#色批偷拍$/vodtype/8-#骑士人妻$/vodtype/9-#呆萌萝莉$/vodtype/23-#茄子无码$/vodtype/13-#尖叫有码$/vodtype/14-#中文字幕$/vodtype/15-#欧美国际$/vodtype/20-#抖阴动画$/vodtype/24-#制服诱惑$/vodtype/26-#变态甜瓜$/vodtype/27-#美丽少女$/vodtype/29-#大胸巨乳$/vodtype/21-#步兵乱伦$/vodtype/22-#草莓伦理$/vodtype/25-#Al换脸$/vodtype/43-",
+"列表后缀": ".html",
 "houzhui": ".html",
 "shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"module-item-pic\"",
+"jiequqian": "\"",
+"jiequhou": "\"",
+"jiequshuzuqian": "class=\"module-item-pic",
 "jiequshuzuhou": "</div>",
- 
+
 //如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
 "tupianqian": "data-src=\"",
 "tupianhou": "\"",
 "tupianqianzhui": "空",
 "biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
+"biaotihou": "</a>",
+"fubiaotiqian": "class=\"video-class\"",
+"fubiaotihou": "</span>",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
 "ljqianzhui": "空",
 "ljhouzhui": "空",
- 
+
 //搜索部分
 //0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
 "搜索请求方式": "0",
@@ -74,40 +78,40 @@
 "sslianjiehou": "空",
 "ssljqianzhui": "空",
 "ssljhouzhui": "空",
- 
+
 //线路名称显示部分，0不启用，1启用
-"是否启用播放线路名": "1",
+"是否启用播放线路名": "0",
 "线路名是否二次截取": "0",
 "线路名截取前": "空",
 "线路名截取后": "空",
-"线路名截取数组前": "data-dropdown-value=",
-"线路名截取数组后": "</div>",
-"线路名标题前": "<span>",
-"线路名标题后": "</span>",
- 
+"线路名截取数组前": "空",
+"线路名截取数组后": "空",
+"线路名标题前": "空",
+"线路名标题后": "空",
+
 //状态，导演，演员，剧情的截取
-"zhuangtaiqian": "class=\"module-item-caption\">",
-"zhuangtaihou": "</div>",
+"zhuangtaiqian": "类型：</span>",
+"zhuangtaihou": "</p>",
 "daoyanqian": "导演：</span>",
-"daoyanhou": "</div>",
+"daoyanhou": "</p>",
 "zhuyanqian": "主演：</span>",
-"zhuyanhou": "</div>",
-"juqingqian": "剧情：</span>",
-"juqinghou": "</div>",
- 
+"zhuyanhou": "</p>",
+"juqingqian": "<p class=\"col-pd\"",
+"juqinghou": "</p>",
+
 //播放集数截取部分
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"module-blocklist",
+"bfjiequshuzuqian": "class=\"scroll-content",
 "bfjiequshuzuhou": "</div>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
 "bfyjiequhou": "空",
 "bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": ">",
-"bfbiaotiqian": "<span>",
-"bfbiaotihou": "</span>",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\"",
 "bfqianzhui": "空",
