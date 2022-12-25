@@ -52,7 +52,8 @@
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/nsss.json"},	
 {"key":"csp_xBPQ_如花尤物","name":"如花尤物","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/rhyw1.json"},	
-	
+{"key":"csp_xBPQ_咪咪影院","name":"咪咪影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, 
+"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/mmyy1.json"},	
  //XYQ
 { "key": "csp_XYQHiker_大香蕉", "name":"香蕉视频(XYQ)", "type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/XYQHiker/xjsp2.json"},	
