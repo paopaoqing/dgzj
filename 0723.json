@@ -74,7 +74,7 @@
  {"key":"csp_XBiubiu_123视频","name":"123视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/123sp.json"},
  {"key":"csp_XBiubiu_骑士TV","name":"骑士TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/qstv.json"},
+"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/qstv.json"},
  {"key":"csp_XBiubiu_贵宾MM","name":"贵宾MM(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/gbmm.json"},
 {"key":"csp_XBiubiu_草吧","name":"草吧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
