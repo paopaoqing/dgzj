@@ -38,15 +38,16 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/bananxxx.json"},
 {"key": "csp_xBPQ_香蕉视频","name":"香蕉视频", "type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,   "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/xjsp1.json"},
-{ "key": "csp_XYQHiker_大香蕉", "name":"香蕉视频(XYQ)", "type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, 
- "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xjsp2.json"},	
+
 {"key": "csp_xBPQ_麻豆映画", "name":"麻豆映画", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/yinghua.json"},
 {"key": "csp_xBPQ_精东影业", "name":"精东影业","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/jingdong1.json"},
 {"key": "csp_xBPQ_精东影视", "name":"精东影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/jingdong.json"},
- 
+ //XYQ
+{ "key": "csp_XYQHiker_大香蕉", "name":"香蕉视频(XYQ)", "type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, 
+ "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xjsp2.json"},	
 //biubiu	
 {"key": "csp_XBiubiu_精东影视2","name": "精东影视(XB)", "type": 3,  "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/jingdong2.json"},
@@ -89,56 +90,11 @@
 {"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh.json"},
 {"key":"csp_xBPQ_性欲分类","name":"性欲轮回分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh1xxx.json"},
 { "key": "csp_xbiubiu_天天解说","name":"天天解说(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/ttzhjs.json"},
+{"key":"csp_xBPQ_jyzb","name":"jyzb","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/jyzb.json"},
+{"key":"csp_xBPQ_nsss","name":"nsss","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/nsss.json"},
+{"key":"csp_xBPQ_jyttzh","name":"jyttzh","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/jyttzh.json"},
+{ "key": "csp_xbiubiu_xjsp3","name":"xjsp3(XB)", "type": 3, "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xjsp3.json"},
 
-{
-"key": "drpy_js_喵了个咪", 
-"name": "🔞喵了个咪[请使用365解析]", 
-"type": 3, 
-"api": "https://ghproxy.com/http://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
-"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E7%8C%AB%E4%BA%86%E4%B8%AA%E5%92%AA.js"
- }, 
-
-{
-"key": "XYQBiu_测试2", 
-"name": "🔞zb(QXB)", 
-"type": 3, 
-"api": "csp_XYQBiu", 
-"searchable": 1, 
-"quickSearch": 1, 
-"filterable": 0, 
-"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/zb.json", 
-"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"
- }, 
-{
-"key": "XYQBiu_测试3", 
-"name": "🔞cqzy(QXB)", 
-"type": 3, 
-"api": "csp_XYQBiu", 
-"searchable": 1, 
-"quickSearch": 1, 
-"filterable": 0, 
-"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/cqzy.json", "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"
-}, 
-
-{
-"key": "XYQBiu_测试4", 
-"name": "🔞nsss(QXB)", 
-"type": 3, 
-"api": "csp_XYQBiu", 
-"searchable": 1, 
-"quickSearch": 1, 
-"filterable": 0, 
-"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/nsss.json", 
-"jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/1103.jar"
-}, 
-
-{
-"key": "drpy_js_养端", 
-"name": "🔞养端（DRPY）", 
-"type": 3, 
-"api": "https://ghproxy.com/http://raw.github.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js", 
-"ext": "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%85%BB%E7%AB%AF.js"
-}, 
 {
 "key":"狼友资源",
 "name":"狼友资源",
