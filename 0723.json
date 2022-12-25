@@ -75,6 +75,13 @@
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mdcm.json"},
  {"key":"csp_XBiubiu_红唇留香","name":"红唇留香(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/hclx.json"},
+{"key":"csp_XBiubiu_米拉视频","name":"米拉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
+"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mlsp.json"},
+{"key":"csp_XBiubiu_骑士TV","name":"骑士TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
+"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/qstv.json"},	
+{"key":"csp_XBiubiu_爱爱影视","name":"爱爱影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
+"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/aays.json"},	
+	
 	
 //以下无法解析播放	
 {"key":"csp_XBiubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
@@ -85,16 +92,11 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/psb.json"},
 {"key":"csp_XBiubiu_咪咪影院","name":"咪咪影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mmyy.json"},
-{"key":"csp_XBiubiu_米拉视频","name":"米拉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mlsp.json"},	
-{"key":"csp_XBiubiu_骑士TV","name":"骑士TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/qstv.json"},
  {"key":"csp_XBiubiu_贵宾MM","name":"贵宾MM(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/gbmm.json"},	
 {"key":"csp_XBiubiu_如花尤物","name":"如花尤物(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/rhyw.json"},
-{"key":"csp_XBiubiu_爱爱影视","name":"爱爱影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/aays.json"},	
+
 	
 //测试中
 {"key":"csp_xBPQ_性欲轮回","name":"性欲轮回","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xylh.json"},
