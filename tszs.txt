@@ -2137,7 +2137,7 @@
 "列表图片": "src=\"$$\"",
 "列表标题": "title=\"$$\"",
 //"列表副标题": "class=\"sticky_quality\">$$</a>",
-"列表链接": "href=\"/smtype/$$.html\"",
+"列表链接": "href=\"/smdetail/$$.html\"",
 "列表链接前缀": "https://qq.jdav1.shop/smplay/",
 "列表链接后缀": "-1-1.html"},
 
@@ -2177,7 +2177,7 @@
 "列表图片": "src=\"$$\"",
 "列表标题": "title=\"$$\"",
 //"列表副标题": "class=\"sticky_quality\">$$</a>",
-"列表链接": "href=\"/smtype/$$.html\"",
+"列表链接": "href=\"/smdetail/$$.html\"",
 "列表链接前缀": "https://qq.jdav1.shop/smplay/",
 "列表链接后缀": "-1-1.html"},
 {"name": "黄瓜TV",
