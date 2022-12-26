@@ -843,9 +843,7 @@
 "列表显示": "0",
 "横图显示": "0",
 "列表起始页": "1",
-"列表分类": "国产$/xmtype/1-#AI换脸$/xmtype/30-#日本无码$/xmtype/35-#制服诱惑$/xmtype/2-#日本有码$/xmtype/36-#巨乳系列$/xmtype/21-#日韩无码$/xmtype/28-#日韩有码$/xmtype/29-#强奸乱伦$/xmtype/6-#熟女人妻$/xmtype/7-#少女萝莉$/xmtype/34-#中文字幕$/xmtype/8-
-
-",
+"列表分类": "国产$/xmtype/1-#AI换脸$/xmtype/30-#日本无码$/xmtype/35-#制服诱惑$/xmtype/2-#日本有码$/xmtype/36-#巨乳系列$/xmtype/21-#日韩无码$/xmtype/28-#日韩有码$/xmtype/29-#强奸乱伦$/xmtype/6-#熟女人妻$/xmtype/7-#少女萝莉$/xmtype/34-#中文字幕$/xmtype/8-",
 "列表后缀": ".html",
 "列表二次截取": "空",
 "列表截取数组": "fed-list-pics fed-lazy fed-part-16by9$$</li>",
