@@ -66,7 +66,8 @@
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/jingdong2.json"},
 {"key":"csp_XBiubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/akyy.json"},
-	
+{"key":"csp_XBiubiu_猛男仓库","name":"猛男仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
+ "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mnck.json"},	
  { "key": "csp_XBiubiu_白虎色", "name":"白虎色(XB)", "type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/bhs.json"},
 
