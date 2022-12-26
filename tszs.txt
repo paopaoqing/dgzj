@@ -2043,6 +2043,109 @@
 "bfqianzhui": "空",
 "bfhouzhui": "空"},
 
+{"name": "性欲轮回",
+"url": "https://www.singyulh.cc",
+"tihuan": "cnzz.com",
+"User": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; Mi9 Pro 5G Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/11.0 Mobile Safari/537.36 COVC/045429",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"shouye": "1",
+"fenlei": "国产视频$/index.php/vodtype/1-#日本视频$/index.php/vodtype/2-#欧美视频$/index.php/vodtype/5-#麻豆传媒$/index.php/vodsearch/麻豆传媒-------------#SWAG$/index.php/vodsearch/SWAG-------------#国产三级片$/index.php/vodtype/11-#短视频$/index.php/vodsearch/短视频-------------#福利姬$/index.php/vodsearch/福利姬-------------#伪娘$/index.php/vodsearch/伪娘-------------#ASMR$/index.php/vodsearch/ASMR-------------#人妖$/index.php/vodsearch/人妖-------------#恋足$/index.php/vodsearch/恋足-------------#动漫$/index.php/vodtype/49-#探花$/index.php/vodsearch/探花-------------#刘玥$/index.php/vodsearch/刘玥-------------#性爱娃娃$/index.php/vodsearch/性爱娃娃-------------#HongKongDoll$/index.php/vodsearch/HongKongDoll-------------#直播$/index.php/vodsearch/直播-------------#中文字幕$/index.php/vodtype/9-#推特$/index.php/vodsearch/推特-------------#门事件$/index.php/vodsearch/门事件-------------",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item-box",
+"jiequshuzuhou": "</section>",
+"tupianqian": "src=\"",
+"tupianhou": "\"",
+"biaotiqian": "alt=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\""
+},
+ 
+{"网站名字": "精东视频1",
+ //精东影业www.jdyy.bar收藏
+"网站地址": "https://qq.jdav1.shop",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "麻豆传媒$/smtype/madou-#天美传媒$/smtype/tianmei-#果冻传媒$/smtype/guodong-#蜜桃影像$/smtype/mitao-#星空传媒$/smtype/xingkong-#精东影业$/smtype/jingdongyingye-#国产原创$/smtype/yuanchuang-",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"thumbnail$$</a>",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "title=\"$$\"",
+//"列表副标题": "class=\"sticky_quality\">$$</a>",
+"列表链接": "href=\"/smtype/$$.html\"",
+"列表链接前缀": "https://qq.jdav1.shop/smplay/",
+"列表链接后缀": "-1-1.html"},
+
+
+{"网站名字": "精东视频2",
+"网站地址": "https://qq.jdav1.shop",
+"访问请求ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+"访问请求cookie": "空",
+"访问请求referer": "空",
+"播放请求头": "User-Agent$123",
+"图片请求头": "空",
+"网页编码": "utf-8",
+ 
+//0：不禁用，1：禁用
+"禁用搜索": "0",
+ 
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"5",
+ 
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#bilibili.com",
+ 
+//0：记录，1：不记录
+"是否记录历史": "0",
+ 
+//0：否，1：是
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"列表起始页": "1",
+"列表分类": "林思妤$林思妤#吴梦梦$吴梦梦#张芸熙$张芸熙#沈娜娜$沈娜娜#秦可欣$秦可欣#夏晴子$夏晴子#雪千夏$雪千夏#艾 秋$艾 秋#换妻$换妻#户外$户外#秘书$秘书#邻居$邻居#乱伦$乱伦#91$91#直播$直播#探花$探花",
+"列表后缀": ".html",
+"列表二次截取": "空",
+"列表截取数组": "class=\"thumbnail$$</a>",
+"列表图片前缀": "空",
+"列表图片": "src=\"$$\"",
+"列表标题": "title=\"$$\"",
+//"列表副标题": "class=\"sticky_quality\">$$</a>",
+"列表链接": "href=\"/smtype/$$.html\"",
+"列表链接前缀": "https://qq.jdav1.shop/smplay/",
+"列表链接后缀": "-1-1.html"},
+
  
 ]
 }
