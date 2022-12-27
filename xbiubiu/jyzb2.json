@@ -27,7 +27,7 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "亚洲直播$/?x=yzzb-so-gwzb-#欧美直播$/?x=yzzb-so-omzb-",
+"fenlei": "卡哇伊直播$/?x=live-so-kwy-#咪狐直播$/?x=live-so-mh-#蜜桃直播$/?x=live-so-mt-#小妲己直播$/?x=live-so-xdj-#LOVE直播$/?x=live-so-love-#番茄直播$/?x=live-so-fq-#77直播$/?x=live-so-qq-#依依直播$/?x=live-so-yy-#日出直播$/?x=live-so-rc-#彩虹直播$/?x=live-so-ch-#久久直播$/?x=live-so-jj-#亚米直播$/?x=live-so-ym-#蝶恋直播$/?x=live-so-ld-#夜妖姬直播$/?x=live-so-yyj-#套路直播$/?x=live-so-tl-#樱花直播$/?x=live-so-yh-#享色直播$/?x=live-so-xs-#红浪漫直播$/?x=live-so-hlm-#金鱼直播$/?x=live-so-jy-#桃花直播$/?x=live-so-th-#花房直播$/?x=live-so-hf-#小仙女直播$/?x=live-so-xxn-#视觉秀直播$/?x=live-so-sjx-#小天使直播$/?x=live-so-xts-#彩云直播$/?x=live-so-cy-#咪咪直播$/?x=live-so-mm-#娇媚直播$/?x=live-so-jm-#黄瓜直播$/?x=live-so-hg-#色趣直播$/?x=live-so-sq-#糯米直播$/?x=live-so-nm-#小蜜蜂直播$/?x=live-so-xmf-#小红帽直播$/?x=live-so-xhm-#桃花运直播$/?x=live-so-thy-#苦瓜直播$/?x=live-so-kg-#爱爱你直播$/?x=live-so-aan-#樱花雨直播$/?x=live-so-yh-#盘他直播$/?x=live-so-pt-#夜色直播$/?x=live-so-ys-#蝴蝶直播$/?x=live-so-hd-#小天仙直播$/?x=live-so-xtx-#杏趣直播$/?x=live-so-xq-#小坏蛋直播$/?x=live-so-xhd-#飘雪直播$/?x=live-so-px-#樱桃直播$/?x=live-so-yt-#奥斯卡直播$/?x=live-so-ask-#兔女郎直播$/?x=live-so-tnl-#花仙子直播$/?x=live-so-hxz-#小性感直播$/?x=live-so-xxg-",
  
 "houzhui": ".html",
 "shifouercijiequ": "0",
@@ -44,8 +44,8 @@
 "biaotihou": "\"",
 "fubiaotiqian": "",
 "fubiaotihou": "",
-"lianjieqian": "href=\"/?x=yzzb-live-",
+"lianjieqian": "href=\"/?x=live-live-",
 "lianjiehou": ".html\"",
-"ljqianzhui": "https://jyzb.live/?x=yzzb-live-",
+"ljqianzhui": "https://jyzb.live/?x=live-live-",
 "ljhouzhui": ".html"},
 
