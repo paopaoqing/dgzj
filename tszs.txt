@@ -1873,265 +1873,6 @@
 "bflianjiehou": "\""},
 
 
-  {"name": "香蕉解说",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "水果派解说$/avjs/sgp-AVJS-",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/avjs/s",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/avjs/Splay",
-"ljhouzhui": "-1-1.html"},
-  
-    
-  
- 
- {"name": "香蕉超清资源",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "超清传媒$/cq/2k-chaoqingchuanmei-#自拍偷拍$/cq/2k-zipaitoupai-#亚洲艾Ｖ$/cq/2k-yazhou-#3D动漫$/cq/2k-3Ddongman-#欧美艾Ｖ$/cq/2k-oumei-#鸾论人7$/cq/2k-luanlunrenqi-#四娃制伏$/cq/2k-siwazhifu-#直播录播$/cq/2k-zhibolubo-#SM另类$/cq/2k-SMlinglei-#超清伦理$/cq/2k-chaoqingsanji-",
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/cq/k",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/cq/Kplay",
-"ljhouzhui": "-1-1.html"},
-
- {"name": "香蕉国产传媒",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "麻豆原创$/gccm/91-madouyuanchuang-#91制片厂$/gccm/91-91zhipianchang-#糖心Vlgo$/gccm/91-tangxinVlgo-#天美传媒$/gccm/91-tianmeichuanmei-#蜜桃传媒$/gccm/91-mitaochuanmei-#皇家华人$/gccm/91-huangjiahuaren-#星空传媒$/gccm/91-xingkongchuanmei-#精东影业$/gccm/91-jingdongyingye-#乐播传媒$/gccm/91-lebochuanmei-#乌鸦传媒$/gccm/91-wuyachuanmei-#兔子先生$/gccm/91-tuzixiansheng-#杏吧原创$/gccm/91-xingbayuanchuang-#MINI传媒$/gccm/91-minichuanmei-#大象传媒$/gccm/91-daxiangchuanmei-#开心鬼传媒$/gccm/91-kaixinguichuanmei-#PsychoPorn-$/gccm/91-PsychoPorn-",
- 
- 
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/gccm/p",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/gccm/pplay",
-"ljhouzhui": "-1-1.html"},
- 
- {"name": "香蕉久久热视频",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "国产$/99re/kdw-guochanzipai-#欧美$/99re/kdw-oumei-#中文字幕$/99re/kdw-zhongwenzimu-#李宗瑞全集$/99re/kdw-lizongruiquanji-#日本无码$/99re/kdw-ribenwuma-#加勒比$/99re/kdw-jialebi-#日本有码$/99re/kdw-ribenyouma-#一本道$/99re/kdw-yibendao-#高清$/99re/kdw-gaoqing-#潮吹$/99re/kdw-chaochui-#会员认证作品$/99re/kdw-jiujiurehuiyuanrenzhengzuopin-#制伏丝挖$/99re/kdw-zhifusiwa-#口暴素颜$/99re/kdw-koubaoyanshe-#缸交$/99re/kdw-gangjiao-#东京热$/99re/kdw-dongjingre-#小格式综合$/99re/kdw-xiaogeshizonghe-#女主播系列$/99re/kdw-hanguonvzhuboxilie-#动漫$/99re/kdw-chengrendongman-#SM$/99re/kdw-SMxingnue-#韩国综合$/99re/kdw-hanguozonghe-",
- 
- 
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/99re/d",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/99re/dplay",
-"ljhouzhui": "-1-1.html"},
- 
- {"name": "香蕉中文资源",
-"url": "https://avss.vip/",
-//访问请求头
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-//访问请求cookie
-"cookie":"",
-//播放请求头
-"User": "User-Agent$123",
-//0：不添加，1：添加
-"添加手动点击图标": "0",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
-"js加载源码时间":"3",
-//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
-"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
-"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
-//0：记录，1：不记录
-"是否记录历史": "0",
-//直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "1",
-//分类页是否使用列表方式显示，0表示：否，1表示：是
-"列表显示": "0",
-//列表图片是否横图显示，0表示：否，1表示：是
-"横图显示": "0",
-//可以自定义列表翻页起始页的页数
-"qishiye": "1",
-//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "中文无🐎$/xjzy/cn-zhongwenwuma-#中文综合$/xjzy/cn-zhongwenzonghe-#中文近亲$/xjzy/cn-zhongwenjingqing-#中文护士$/xjzy/cn-zhongwenhushi-#中文师生$/xjzy/cn-zhongwenshisheng-#中文强歼$/xjzy/cn-zhongwenqiangjian-#国产📸$/xjzy/cn-guochanzipai-#美女主播$/xjzy/cn-meinvzhubo-#伦理$/xjzy/cn-sanjizonghe-",
- 
-"houzhui": ".html",
-"shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"item",
-"jiequshuzuhou": "</a>",
- 
-//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"tupianqianzhui": "空",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "",
-"fubiaotihou": "",
-"lianjieqian": "href=\"/xjzy/c",
-"lianjiehou": ".html\"",
-"ljqianzhui": "https://avss.vip/xjzy/xplay",
-"ljhouzhui": "-1-1.html"},
- 
- 
  
  {"name": "猛男仓库",
 "url": "https://mengnanck.buzz/",
@@ -2946,70 +2687,365 @@
 "列表链接前缀": "空",
 "列表链接后缀": "空"},
 
-
- //地址 https://ju54321.com  https://juyouav.com  https://avjs.vip  https://juyouav.com  https://mdav.vip
-{"name": "新香蕉",
-"url": "https://www.2024xxj.com",
-"tihuan": "cnzz.com",
-"User": "空",
- "shouye": "1",
-
-"fenlei": "水果解说$/avjs/index.php/sgp/AVJS-#中文综合$/xjzy/index.php/xjzy/zhongwenzonghe-#中文无码$/xjzy/index.php/xjzy/zhongwenwuma-#中文近亲$/xjzy/index.php/xjzy/zhongwenjingqing-#中文护士$/xjzy/index.php/xjzy/zhongwenhushi-#中文师生$/xjzy/index.php/xjzy/zhongwenshisheng-#中文强奸$/xjzy/index.php/xjzy/zhongwenqiangjian-#国产自拍$/xjzy/index.php/xjzy/guochanzipai-#美女主播$/xjzy/index.php/xjzy/meinvzhubo-#三级伦理$/xjzy/index.php/xjzy/sanjizonghe-#亚洲ＡＶ$/cq/index.php/2k/yazhou-#自拍偷拍$/cq/index.php/2k/zipaitoupai-#超清传媒$/cq/index.php/2k/chaoqingchuanmei-#3D动漫$/cq/index.php/2k/3Ddongman-#欧美ＡＶ$/cq/index.php/2k/oumei-#乱伦人妻$/cq/index.php/2k/luanlunrenqi-#丝袜制服$/cq/index.php/2k/siwazhifu-#直播录播$/cq/index.php/2k/zhibolubo-#SM另类$/cq/index.php/2k/SMlinglei-#超清三级$/cq/index.php/2k/chaoqingsanji-#CN麻豆原创$/gccm/index.php/md/madouyuanchuang-#91制片厂$/gccm/index.php/md/91zhipianchang/-#天美传媒$/gccm/index.php/md/tianmeichuanmei-#蜜桃传媒$/gccm/index.php/md/mitaochuanmei-#皇家华人$/gccm/index.php/md/huangjiahuaren-#星空传媒$/gccm/index.php/md/xingkongchuanmei-#精东影业$/gccm/index.php/md/jingdongyingye-#乐播传媒$/gccm/index.php/md/lebochuanmei-#乌鸦传媒$/gccm/index.php/md/wuyachuanmei-#兔子先生$/gccm/index.php/md/tuzixiansheng-#杏吧原创$/gccm/index.php/md/xingbayuanchuang-#mini传媒$/gccm/index.php/md/minichuanmei-#大象传媒$/gccm/index.php/md/daxiangchuanmei-#开心鬼传媒$/gccm/index.php/md/kaixinguichuanmei-#PsychoPorn$/gccm/index.php/md/PsychoPorn-#糖心Vlgo$/gccm/index.php/md/tangxinVlgo-#99国产自拍$//99re/index.php/99re/guochanzipai-#肛交$/99re/index.php/99re/gangjiao-#口爆颜射$/99re/index.php/99re/koubaoyanshe-#潮吹$/99re/index.php/99re/chaochui-#会员认证作品$//99re/index.php/99re/jiujiurehuiyuanrenzhengzuopin-#制服丝袜$/99re/index.php/99re/zhifusiwa-#一本道$/99re/index.php/99re/yibendao-#高清$/99re/index.php/99re/gaoqing-#日本有码$/99re/index.php/99re/ribenyouma-#加勒比$/99re/index.php/99re/jialebi-#日本无码$/99re/index.php/99re/ribenwuma-#李宗瑞全集$/99re/index.php/99re/lizongruiquanji-#中文字幕$//99re/index.php/99re/zhongwenzimu-#欧美$/99re/index.php/99re/oumei-#东京热$/99re/index.php/99re/dongjingre-#小格式综合$/99re/index.php/99re/xiaogeshizonghe-#女主播系列$/99re/index.php/99re/hanguonvzhuboxilie-#成人动漫$/99re/index.php/99re/chengrendongman-#SM性虐$/99re/index.php/99re/SMxingnue-#韩国综合$/99re/index.php/99re/hanguozonghe-#FC国产自拍$/fcw/index.php/fcw/guochanzipai-#VIP专区$/fcw/index.php/fcw/VIPzhuanqu-#偷拍系列$/fcw/index.php/fcw/toupaixilie-#日本有码$/fcw/index.php/fcw/ribenyouma-#日本无码$/fcw/index.php/fcw/ribenwuma-#成人动漫$/fcw/index.php/fcw/chengrendongman-#韩国综合$/fcw/index.php/fcw/hanguozonghe-#VR专区$/fcw/index.php/fcw/VRzhuanqu-#欧美$/fcw/index.php/fcw/oumei-",
-
+{"name": "香蕉解说",
+"url": "https://avss.vip/",
+//访问请求头
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "水果派解说$/avjs/sgp-AVJS-",
 "houzhui": ".html",
-"shifouercijiequ": "1",
-"jiequqian": "class=\"list-videos\"",
-"jiequhou": "class=\"pagination\"",
-"jiequshuzuqian": "<a",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
 "jiequshuzuhou": "</a>",
+ 
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
 "tupianqian": "data-original=\"",
 "tupianhou": "\"",
+"tupianqianzhui": "空",
 "biaotiqian": "title=\"",
 "biaotihou": "\"",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/?m=search-type-so-0.html&TXT=",
-"sousuohou": "&submit=",
-"sousuohouzhui": "/detail/",
-"ssmoshi": "1",
-"sousuoshifouercijiequ": "0",
-"jspic": "空",
-"jsname": "空",
-"jsid": "空",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "class=\"uk-width-1-5",
-"ssjiequshuzuhou": "</a>",
-"sstupianqian": "data-original=\"",
-"sstupianhou": "\"",
-"ssbiaotiqian": "title=\"",
-"ssbiaotihou": "\"",
-"sslianjieqian": "href=\"",
-"sslianjiehou": "\"",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"item\">更新",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/avjs/s",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://avss.vip/avjs/Splay",
+"ljhouzhui": "-1-1.html"},
+  
+    
+  
+ 
+ {"name": "香蕉超清资源",
+"url": "https://avss.vip/",
+//访问请求头
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "超清传媒$/cq/2k-chaoqingchuanmei-#自拍偷拍$/cq/2k-zipaitoupai-#亚洲艾Ｖ$/cq/2k-yazhou-#3D动漫$/cq/2k-3Ddongman-#欧美艾Ｖ$/cq/2k-oumei-#鸾论人7$/cq/2k-luanlunrenqi-#四娃制伏$/cq/2k-siwazhifu-#直播录播$/cq/2k-zhibolubo-#SM另类$/cq/2k-SMlinglei-#超清伦理$/cq/2k-chaoqingsanji-",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</a>",
+ 
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/cq/k",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://avss.vip/cq/Kplay",
+"ljhouzhui": "-1-1.html"},
 
-//"bfjiequshuzuqian": "class=\"read-btn uk-margin-bottom",
-"bfjiequshuzuhou": "猜你喜欢",
-"zhuangtaiqian": "类型：",
-"zhuangtaihou": "</div>",
-"daoyanqian": "更新：",
-"daoyanhou": "</div>",
-"zhuyanqian": "主演：",
-"zhuyanhou": "</div>",
-"juqingqian": "片名：",
-"juqinghou": "</div>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+ {"name": "香蕉国产传媒",
+"url": "https://avss.vip/",
+//访问请求头
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "麻豆原创$/gccm/91-madouyuanchuang-#91制片厂$/gccm/91-91zhipianchang-#糖心Vlgo$/gccm/91-tangxinVlgo-#天美传媒$/gccm/91-tianmeichuanmei-#蜜桃传媒$/gccm/91-mitaochuanmei-#皇家华人$/gccm/91-huangjiahuaren-#星空传媒$/gccm/91-xingkongchuanmei-#精东影业$/gccm/91-jingdongyingye-#乐播传媒$/gccm/91-lebochuanmei-#乌鸦传媒$/gccm/91-wuyachuanmei-#兔子先生$/gccm/91-tuzixiansheng-#杏吧原创$/gccm/91-xingbayuanchuang-#MINI传媒$/gccm/91-minichuanmei-#大象传媒$/gccm/91-daxiangchuanmei-#开心鬼传媒$/gccm/91-kaixinguichuanmei-#PsychoPorn-$/gccm/91-PsychoPorn-",
+ 
+ 
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</a>",
+ 
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/gccm/p",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://avss.vip/gccm/pplay",
+"ljhouzhui": "-1-1.html"},
+ 
+ {"name": "香蕉久久热视频",
+"url": "https://avss.vip/",
+//访问请求头
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "国产$/99re/kdw-guochanzipai-#欧美$/99re/kdw-oumei-#中文字幕$/99re/kdw-zhongwenzimu-#李宗瑞全集$/99re/kdw-lizongruiquanji-#日本无码$/99re/kdw-ribenwuma-#加勒比$/99re/kdw-jialebi-#日本有码$/99re/kdw-ribenyouma-#一本道$/99re/kdw-yibendao-#高清$/99re/kdw-gaoqing-#潮吹$/99re/kdw-chaochui-#会员认证作品$/99re/kdw-jiujiurehuiyuanrenzhengzuopin-#制伏丝挖$/99re/kdw-zhifusiwa-#口暴素颜$/99re/kdw-koubaoyanshe-#缸交$/99re/kdw-gangjiao-#东京热$/99re/kdw-dongjingre-#小格式综合$/99re/kdw-xiaogeshizonghe-#女主播系列$/99re/kdw-hanguonvzhuboxilie-#动漫$/99re/kdw-chengrendongman-#SM$/99re/kdw-SMxingnue-#韩国综合$/99re/kdw-hanguozonghe-",
+ 
+ 
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</a>",
+ 
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/99re/d",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://avss.vip/99re/dplay",
+"ljhouzhui": "-1-1.html"},
+ 
+ {"name": "香蕉中文资源",
+"url": "https://avss.vip/",
+//访问请求头
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "中文无码$/xjzy/cn-zhongwenwuma-#中文综合$/xjzy/cn-zhongwenzonghe-#中文近亲$/xjzy/cn-zhongwenjingqing-#中文护士$/xjzy/cn-zhongwenhushi-#中文师生$/xjzy/cn-zhongwenshisheng-#中文强歼$/xjzy/cn-zhongwenqiangjian-#国产$/xjzy/cn-guochanzipai-#美女主播$/xjzy/cn-meinvzhubo-#伦理$/xjzy/cn-sanjizonghe-",
+ 
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</a>",
+ 
+//如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/xjzy/c",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://avss.vip/xjzy/xplay",
+"ljhouzhui": "-1-1.html"},
+ 
+
+
+{"name": "香蕉直播1",
+ //地址 https://ju54321.com  https://juyouav.com  https://avjs.vip  https://juyouav.com  https://mdav.vip
+"url": "https://jyzb.live/",
+//访问请求头
+"ua": "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "亚洲直播$/?x=yzzb-so-gwzb-#欧美直播$/?x=yzzb-so-omzb-",
+ "houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</div>",
+ //如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/?x=yzzb-live",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://jyzb.live/?x=yzzb-live",
+"ljhouzhui": ".html"},
+
+
+ {"name": "香蕉直播2",
+"url": "https://jyzb.live/",
+//访问请求头
+"ua": "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Mobile Safari/537.36",
+//访问请求cookie
+"cookie":"",
+//播放请求头
+"User": "User-Agent$123",
+//0：不添加，1：添加
+"添加手动点击图标": "0",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+//根据网站响应速度自行调整加载需要的时间，时间太短可能导致获取数据失败。
+"js加载源码时间":"3",
+//填写播放地址寻找的地址标识词，中间用#号分割，不填写的话就使用全局的嗅探词
+"嗅探词": "m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+//填写播放地址过滤规则，中间用#号分割，不填写的话就使用全局的过滤词
+"过滤词": "?url=#.css#51.la#cnzz.com#baidu.com",
+//0：记录，1：不记录
+"是否记录历史": "0",
+//直接播放截取的播放页链接网址，0表示：否，1表示：是
+"直接播放": "1",
+//分类页是否使用列表方式显示，0表示：否，1表示：是
+"列表显示": "0",
+//列表图片是否横图显示，0表示：否，1表示：是
+"横图显示": "0",
+//可以自定义列表翻页起始页的页数
+"qishiye": "1",
+//如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
+"fenlei": "卡哇伊直播$/?x=live-so-kwy-#咪狐直播$/?x=live-so-mh-#蜜桃直播$/?x=live-so-mt-#小妲己直播$/?x=live-so-xdj-#LOVE直播$/?x=live-so-love-#番茄直播$/?x=live-so-fq-#77直播$/?x=live-so-qq-#依依直播$/?x=live-so-yy-#日出直播$/?x=live-so-rc-#彩虹直播$/?x=live-so-ch-#久久直播$/?x=live-so-jj-#亚米直播$/?x=live-so-ym-#蝶恋直播$/?x=live-so-ld-#夜妖姬直播$/?x=live-so-yyj-#套路直播$/?x=live-so-tl-#樱花直播$/?x=live-so-yh-#享色直播$/?x=live-so-xs-#红浪漫直播$/?x=live-so-hlm-#金鱼直播$/?x=live-so-jy-#桃花直播$/?x=live-so-th-#花房直播$/?x=live-so-hf-#小仙女直播$/?x=live-so-xxn-#视觉秀直播$/?x=live-so-sjx-#小天使直播$/?x=live-so-xts-#彩云直播$/?x=live-so-cy-#咪咪直播$/?x=live-so-mm-#娇媚直播$/?x=live-so-jm-#黄瓜直播$/?x=live-so-hg-#色趣直播$/?x=live-so-sq-#糯米直播$/?x=live-so-nm-#小蜜蜂直播$/?x=live-so-xmf-#小红帽直播$/?x=live-so-xhm-#桃花运直播$/?x=live-so-thy-#苦瓜直播$/?x=live-so-kg-#爱爱你直播$/?x=live-so-aan-#樱花雨直播$/?x=live-so-yh-#盘他直播$/?x=live-so-pt-#夜色直播$/?x=live-so-ys-#蝴蝶直播$/?x=live-so-hd-#小天仙直播$/?x=live-so-xtx-#杏趣直播$/?x=live-so-xq-#小坏蛋直播$/?x=live-so-xhd-#飘雪直播$/?x=live-so-px-#樱桃直播$/?x=live-so-yt-#奥斯卡直播$/?x=live-so-ask-#兔女郎直播$/?x=live-so-tnl-#花仙子直播$/?x=live-so-hxz-#小性感直播$/?x=live-so-xxg-",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"item",
+"jiequshuzuhou": "</div>",
+ //如果图片前字段填写完整网络图片地址的话，列表页就自动使用这个网络图片作为列表的图片。
+"tupianqian": "data-original=\"",
+"tupianhou": "\"",
+"tupianqianzhui": "空",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "",
+"fubiaotihou": "",
+"lianjieqian": "href=\"/?x=live-live-",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://jyzb.live/?x=live-live-",
+"ljhouzhui": ".html"},
 
 
 
