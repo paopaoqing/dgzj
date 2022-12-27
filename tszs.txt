@@ -158,7 +158,7 @@
 
 
 //填写电视直播的接口链接
-"dianshizhibo": "https://raw.iqiq.io/paopaoqing/dgzj/main/dgzj.txt",
+"dianshizhibo": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/dgzj.txt",
 
 //填写播放地址寻找的地址标识词，中间用#号分割
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#.mp4#.flv#.mp3#.m4a",
@@ -2792,6 +2792,32 @@
 "列表链接后缀": "-1-1.html"},
 
 
+{"name": "女生宿舍",
+"url": "https://www.nsss6.xyz/",
+"tihuan": "cnzz.com",
+"User": "Mozilla/5.0 (Linux; U; Android 10; zh-cn; Mi9 Pro 5G Build/QKQ1.190825.002) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/77.0.3865.120 MQQBrowser/11.0 Mobile Safari/537.36 COVC/045429",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+"shouye": "1",
+"fenlei":"麻豆传媒$/index.php/vod/type/id/6/page-#麻豆一区$/index.php/vod/type/id/15/page-#麻豆二区$/index.php/vod/type/id/4/page-#麻豆三区$/index.php/vod/type/id/9/page-#麻豆四区$/index.php/vod/type/id/24/page-#网友自拍$/index.php/vod/type/id/13/page-#自拍一区$/index.php/vod/type/id/3/page-#自拍二区$/index.php/vod/type/id/8/page-#自拍三区$/index.php/vod/type/id/11/page-#自拍四区$/index.php/vod/type/id/16/page-#在线AV$/index.php/vod/type/id/1/page-#巨乳美胸$/index.php/vod/type/id/17/page-#中文字幕$/index.php/vod/type/id/12/page-#日本无码$/index.php/vod/type/id/20/page-#日本有码$/index.php/vod/type/id/2/page-#素人出镜$/index.php/vod/type/id/22/page-#强奸乱伦$/index.php/vod/type/id/21/page-#JAV$/index.php/vod/type/id/23/page-#成人动漫$/index.php/vod/type/id/5/page-#视讯主播$/index.php/vod/type/id/10/page-#三级伦理$/index.php/vod/type/id/14/page-#欧美激情$/index.php/vod/type/id/18/page-",
+"houzhui": ".html",
+"shifouercijiequ": "1",
+"jiequqian": "class=\"vodlist\"",
+"jiequhou": "</ul>",
+"jiequshuzuqian":"class=\"vod_box\"",
+"jiequshuzuhou": "</div>",
+"tupianqian":"data-original=\"",
+"tupianhou": "\"",
+"biaotiqian":"title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"/index.php/vod/play/id/",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://www.nsss6.xyz/index.php/vod/play/id/",
+"ljhouzhui": "/sid/1/nid/1.html"
+},
+ 
+
 {"name": "黄瓜TV",
 "url": "https://kkg51.com:33666/",
 //访问请求头
@@ -2837,10 +2863,10 @@
 "biaotihou": "\"",
 "fubiaotiqian": "<i>",
 "fubiaotihou": "</i>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"ljqianzhui": "空",
-"ljhouzhui": "空"},
+"lianjieqian": "href=\"/home/play/",
+"lianjiehou": ".html\"",
+"ljqianzhui": "https://kkg92.com:33666/home/play/",
+"ljhouzhui": ".html"},
  
  
    
