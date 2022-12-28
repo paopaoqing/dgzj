@@ -32,8 +32,6 @@
  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/shuiguopai.json"},	
 {"key":"csp_xBPQ_番禺视频","name":"番禺视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/pysp1.json"},	
-{"key": "csp_xBPQ_黄瓜视频", "name":"黄瓜视频","type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,    "filterable": 1,  "playerType":2,  
- "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/huanggua.json"},
 {"key":"csp_xBPQ_爱看影院","name":"爱看影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/aikanxxx.json"},
 {"key": "csp_xBPQ_bannan",  "name":"bannan",  "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1, "playerType":2, 
