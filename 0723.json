@@ -91,18 +91,13 @@
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/qstv.json"},	
 {"key":"csp_XBiubiu_爱爱影视","name":"爱爱影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/aays.json"},	
-{"key":"csp_XBiubiu_香蕉直播1","name":"香蕉直播1(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
- "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/jyzb1.json"},	
-{"key":"csp_XBiubiu_香蕉直播2","name":"香蕉直播2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
- "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/jyzb2.json"},
+
 	
 //以下无法解析播放	
 {"key":"csp_XBiubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/xjsp.json"},	
  {"key":"csp_XBiubiu_番禺视频(XB)","name":"番禺视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/pysp.json"},
-{"key": "csp_XBiubiu_破色吧","name":"破色吧(XB)", "type": 3, "api": "csp_XBiubiu","searchable": 1,"quickSearch": 1, "filterable": 1,"playerType":2,
- "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/psb.json"},
 {"key":"csp_XBiubiu_咪咪影院","name":"咪咪影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xbiubiu/mmyy.json"},
  {"key":"csp_XBiubiu_贵宾MM","name":"贵宾MM(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
