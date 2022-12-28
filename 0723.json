@@ -44,6 +44,8 @@
  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/jingdong1.json"},
 {"key": "csp_xBPQ_精东影视", "name":"精东影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
  "ext":"https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/jingdong.json"},
+{"key":"csp_xBPQ_123视频","name":"123视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, 
+ "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/123sp.json"},	
 {"key":"csp_xBPQ_女生宿舍","name":"女生宿舍","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, 
  "ext": "https://ghproxy.com/https://raw.githubusercontent.com/paopaoqing/dgzj/main/xBPQ/nsss.json"},	
 {"key":"csp_xBPQ_如花尤物","name":"如花尤物","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, 
