@@ -75,24 +75,10 @@
 
 //填写采集接口
 "caijizhan": [
-{"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
-{"name":"天堂资源","url":"http://vipmv.cc/api.php"}, 
-{"name":"追剧达人","url":"http://zjdr.tv/api.php/"},
-{"name":"千橙资源","url":"http://124.223.10.96:8090/api.php"}, 
-{"name":"醉璃笙TV","url":"http://web.xhdj.vip/api.php"}, 
- {"name":"最大资源","url":"http://zuidazy.me/api.php/"},
-{"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php/"},
-{"name":"星海资源","url":"https://www.xhzy01.com/api.php"},
-{"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
-{"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
-{"name":"TOM资源","url":"https://api.tomcaiji.com/api.php"},
-{"name":"云玺TV","url":"http://43.138.193.213:8181//api.php/Miguo/vod/"},
-{"name":"柚子TV","url":"http://tvht.lanrentk.cc/api.php/iptv/vod/"},
-{"name":"天空TV","url":"http://tv.tkys.tv/api.php/iptv/vod/"},
-{"name":"三级2号〔Z〕","url":"http://phoebe.cf/api.php/iptv/vod/"},
-{"name":"诺讯资源","url":"http://caiji.nxflv.com/api.php"}, 
-{"name":"忆梦","url":"http://anltv.cn/api.php"},
-{"name":"酷点","url":"http://kudianzy.com/api.php"}],
+{"name":"KK写真资源","url":"https://kkzy.me/api.php"},
+{"name":"91采集","url":"https://91md.me/api.php"},
+{"name": "ASMR(优)","url": "http://www.asmr19.in/api.php"}
+],
 
 
 
