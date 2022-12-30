@@ -1,0 +1,28 @@
+{
+"站名":"猛男仓库",
+"主页url":"https://mengnanck.buzz/",
+//"直接播放":"1",
+"图片代理":"0",
+"数组":"class=\"thumb&&<span",
+"图片":"src=\"&&\"",
+"标题":"title=\"&&\"",
+//"副标题":"class=\"icon-clock-o&&</i>",
+"链接":"href=\"&&\"",
+//"状态":"分类：</span>&&</p >",
+//"导演":"导演：</span>&&</p >",
+//"主演":"主演：</span>&&</p >",
+//"简介":"<p class=\"col-pd\">&&</p >",
+"搜索数组":"class=\"thumb&&<span",
+"搜索图片":"src=\"&&\"",
+"搜索标题":"title=\"&&\"",
+"搜索链接": "href=\"&&\"",
+"搜索模式":"1",
+"搜索url":"/index.php/ajax/suggest?mid=1&wd=&limit=500",
+"搜索后缀": "/info/",
+"分类":"国产传媒$/list/158/page/#日本视频$/list/180/page/#国产视频$/list/181/page/#韩国$/list/159/page/#欧美视频$/list/182/page/#成人动画$/list/160/page/#精品推荐$/list/274/page/#国产系列$/list/275/page/#主播直播$/list/276/page/#亚洲无马$/list/277/page/#亚洲有马$/list/278/page/#中文字幕$/list/279/page/#剧如美如$/list/280/page/#人7叔女$/list/281/page/#枪捡栾论$/list/282/page/#欧美精品$/list/283/page/#萝莉$/list/284/page/#伦理三级$/list/285/page/#自拍褕拍$/list/287/page/#支付四娃$/list/288/page/#抠教颜射$/list/289/page/#日本精品$/list/290/page/#Cospla$/list/291/page/#素人自拍$/list/292/page/#台湾辣妹$/list/293/page/#韩国御姐$/list/294/page/#唯美港姐$/list/295/page/#东南亚AV$/list/296/page/#7辱0辱$/list/297/page/#剧情介绍$/list/298/page/#多人多P$/list/299/page/#91探花$/list/300/page/#网红流出$/list/301/page/#野外露出$/list/302/page/#古装扮演$/list/303/page/#女忧系列$/list/304/page/#可爱学生$/list/305/page/#风情旗袍$/list/306/page/#兽耳系列$/list/307/page/#瑜伽裤$/list/308/page/#闷骚护士$/list/309/page/#过膝袜$/list/310/page/#网曝门$/list/311/page/#传媒出品$/list/312/page/#钕同新链$/list/313/page/#恋腿狂魔$/list/315/page/",
+"分类url":"https://mengnanck.buzz/{cateId}/{catePg}.html",
+"播放数组": "class=\"group-box&&</div>",
+
+"免嗅":"0",
+"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
+}
