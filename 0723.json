@@ -30,7 +30,10 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/ttzhjs.json"},
 {"key":"香蕉AV解说", "name":"香蕉AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/shuiguopai.json"},
-	
+//xbiubiu
+{"key":"csp_XBiubiu_香蕉解说","name":"香蕉解说(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":1,
+ "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/xiangjiaojieshuo.json"},
+
 {"key":"csp_xBPQ_番禺视频","name":"番禺视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/pysp1.json"},
 
