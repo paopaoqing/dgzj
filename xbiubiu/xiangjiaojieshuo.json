@@ -1,5 +1,6 @@
 {"name": "香蕉解说",
 "url": "https://avhh.vip/",
+//邮箱回家xjzycj@gmail.com
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 //访问请求cookie
@@ -27,7 +28,7 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "水果派解说$/avjs/sgp-AVJS-",
+"fenlei": "水果派AV解说$/avjs/sgp-AVJS-",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
