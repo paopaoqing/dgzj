@@ -101,8 +101,6 @@
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/hclx.json"},
 {"key":"csp_XBiubiu_米拉视频","name":"米拉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mlsp.json"},
-{"key":"csp_XBiubiu_骑士TV","name":"骑士TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
-"ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/qstv.json"},	
 {"key":"csp_XBiubiu_爱爱影视","name":"爱爱影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/aays.json"},	
 
