@@ -4,9 +4,7 @@
 	
 "sites": [	
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1},
-	
-	
+{"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}	
 	
 
 {"key": "VIPlive", "name": "mylive","type": 4,"api": "http://120.53.102.254/live?url=https://raw.iqiq.io/paopaoqing/dgzj/main/eur.txt", "searchable": 1, "quickSearch": 1, "filterable": 1},
@@ -30,14 +28,12 @@
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/ttzhjs.json"},
 {"key":"香蕉AV解说", "name":"香蕉AV解说", "type":3,"api":"csp_xBPQ","searchable":1, "quickSearch":1,"filterable":0,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/shuiguopai.json"},
-//xbiubiu
-{"key":"csp_XBiubiu_香蕉解说","name":"香蕉解说(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,
- "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/xiangjiaojieshuo.json"},
+
 
 {"key":"csp_xBPQ_番禺视频","name":"番禺视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/pysp1.json"},
 
-
+//xBPQ
 {"key":"csp_xBPQ_爱看影院","name":"爱看影院1","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/aikanxxx.json"},
 {"key":"csp_xBPQ_爱看影院2","name":"爱看影院2","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, 
@@ -46,21 +42,25 @@
 {"key":"csp_XBiubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/akyy.json"},
 
+
 {"key": "csp_xBPQ_bannan",  "name":"bannan",  "type": 3, "api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1, "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/bananxxx.json"},
 
+//xBPQ
 {"key": "csp_xBPQ_香蕉视频","name":"香蕉视频", "type": 3,"api": "csp_xBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,   "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/xjsp1.json"},
  //XYQ
 { "key": "csp_XYQHiker_大香蕉", "name":"香蕉视频(XYQ)", "type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/XYQHiker/xjsp2.json"},	
 
+//xBPQ
 {"key": "csp_xBPQ_麻豆映画", "name":"麻豆映画", "type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1, "playerType":2, 
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/yinghua.json"},
 //xbiubiu
 {"key":"csp_XBiubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mdcm.json"},
 
+//xBPQ
 {"key": "csp_xBPQ_精东影业", "name":"精东影业","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
  "ext":"https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/jingdong1.json"},
 {"key": "csp_xBPQ_精东影视", "name":"精东影视","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType":2,
@@ -69,6 +69,7 @@
 {"key": "csp_XBiubiu_精东影视2","name": "精东影视(XB)", "type": 3,  "api": "csp_XBiubiu", "searchable": 1, "quickSearch": 1, "filterable": 0, "playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/jingdong2.json"},
 
+//xBPQ
 {"key":"csp_xBPQ_123视频","name":"123视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/123sp.json"},	
 //xbiubiu
@@ -91,31 +92,33 @@
 {"key":"csp_xBPQ_性欲分类","name":"性欲轮回分类","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/xylh1xxx.json"},
 
+//xBPQ
 {"key":"csp_xBPQ_仓库视频","name":"仓库视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/cangkushipin.json"},
 //xbiubiu
  {"key":"csp_XBiubiu_仓库视频","name":"仓库视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/cksp.json"},
 
+//xBPQ
 {"key":"csp_xBPQ_红唇留香","name":"红唇留香","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/hongchunliuxiang.json"},
 //xbiubiu
  {"key":"csp_XBiubiu_红唇留香","name":"红唇留香(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/hclx.json"},
 
+//xBPQ
 {"key":"csp_xBPQ_猛男仓库","name":"猛男仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/mengnancangku.json"},
 //xbiubiu
 {"key":"csp_XBiubiu_猛男仓库","name":"猛男仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mnck.json"},	
 
+//xBPQ
 {"key":"csp_xBPQ_米拉视频","name":"米拉视频","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0, 
  "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xBPQ/milashipin.json"},
 //xbiubiu
 {"key":"csp_XBiubiu_米拉视频","name":"米拉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/mlsp.json"},
-
-
 	
 	
 //biubiu	
@@ -123,7 +126,6 @@
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/xmsp.json"},
 {"key":"csp_XBiubiu_草吧","name":"草吧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, 
 "ext": "https://raw.iqiq.io/paopaoqing/dgzj/main/xbiubiu/cb.json"},
-
 
 
 
