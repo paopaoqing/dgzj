@@ -1,6 +1,6 @@
+
 {"name": "香蕉解说",
 "url": "https://avhh.vip/",
-//邮箱回家xjzycj@gmail.com
 //访问请求头
 "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
 //访问请求cookie
@@ -20,7 +20,7 @@
 //0：记录，1：不记录
 "是否记录历史": "0",
 //直接播放截取的播放页链接网址，0表示：否，1表示：是
-"直接播放": "0",
+"直接播放": "1",
 //分类页是否使用列表方式显示，0表示：否，1表示：是
 "列表显示": "0",
 //列表图片是否横图显示，0表示：否，1表示：是
@@ -28,7 +28,7 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei": "水果派AV解说$/avjs/sgp-AVJS-",
+"fenlei": "水果派解说$/avjs/sgp-AVJS-",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
@@ -47,5 +47,21 @@
 "lianjieqian": "href=\"/avjs/s",
 "lianjiehou": ".html\"",
 "ljqianzhui": "https://avhh.vip/avjs/Splay",
-"ljhouzhui": "-1-1.html"}
-  
+"ljhouzhui": "-1-1.html",
+  //播放集数截取部分
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"button button-glow button-border button-rounded button-primary",
+"bfjiequshuzuhou": "</a>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\"",
+"bfqianzhui": "空",
+"bfhouzhui": "空"}
