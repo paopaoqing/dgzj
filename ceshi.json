@@ -2798,11 +2798,11 @@
 	\"bfhouzhui\": \"空\"
 	}"},
 
-{"key":"csp_XBiubiu_学妹视频","name":"学妹视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, "ext": 
+{"key":"csp_XBiubiu_学妹视频","name":"学妹视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1, "ext":
 	"{
 	\"name\": \"学妹视频\",
-	\"url\": \"https://m.xmmv30.com/\",
-	//发布页https://github.com/nanseav/x,
+	\"url\": \"https://m.xmmv30.com\",
+	//发布页https://github.com/nanseav/x
 	//访问请求头
 	\"ua\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36\",
 	//访问请求cookie
@@ -2822,7 +2822,7 @@
 	//0：记录，1：不记录
 	\"是否记录历史\": \"0\",
 	//直接播放截取的播放页链接网址，0表示：否，1表示：是
-	\"直接播放\": \"1\",
+	\"直接播放\": \"0\",
 	//分类页是否使用列表方式显示，0表示：否，1表示：是
 	\"列表显示\": \"0\",
 	//列表图片是否横图显示，0表示：否，1表示：是
@@ -2842,14 +2842,14 @@
 	\"tupianqian\": \"data-original=\\\"\",
 	\"tupianhou\": \"\\\"\",
 	\"tupianqianzhui\": \"空\",
-	\"biaotiqian\": \"\\\" >\",
+	\"biaotiqian\":\"\\\" >\",
 	\"biaotihou\": \"</a>\",
-	\"fubiaotiqian\": \"<span class=\\\"fed-list-score fed-font-xii fed-back-green\",
-	\"fubiaotihou\": \"</span>\",
-	\"bflianjieqian\": \"href=\\\"\",
-	\"bflianjiehou\": \"\\\"\",
-	\"bfqianzhui\": \"空\",
-	\"bfhouzhui\": \"空\"
+	\"fubiaotiqian\": \"\",
+	\"fubiaotihou\": \"\",
+	\"lianjieqian\": \"href=\\\"\",
+	\"lianjiehou\": \"\\\"\",
+	\"ljqianzhui\": \"空\",
+	\"ljhouzhui\": \"空\",
 
 	//搜索部分
 	//0：get方式，1：post方式，注意：如果用post方式，【ssmoshi】要填：1
@@ -2857,7 +2857,7 @@
 	\"ssmoshi\": \"0\",
 	\"sousuoqian\": \"/index.php/ajax/suggest?mid=1&wd=\",
 	\"sousuohou\": \"&limit=150\",
-	\"sousuohouzhui\": \"/xmdetail/\",
+	\"sousuohouzhui\": \"/voddetail/\",
 	\"jspic\": \"pic\",
 	\"jsname\": \"name\",
 	\"jsid\": \"id\",
@@ -2889,14 +2889,14 @@
 	\"线路名标题后\": \"空\",
 
 	//状态，导演，演员，剧情的截取
-	\"zhuangtaiqian\": \"年份：</span>\",
+	\"zhuangtaiqian\": \"类型：</span>\",
 	\"zhuangtaihou\": \"</p>\",
 	\"daoyanqian\": \"导演：</span>\",
 	\"daoyanhou\": \"</p>\",
 	\"zhuyanqian\": \"主演：</span>\",
 	\"zhuyanhou\": \"</p>\",
-	\"juqingqian\": \"class=\\\"fed-text-muted\\\"\",
-	\"juqinghou\": \"</p>\",
+	\"juqingqian\": \"class=\\\"pic-text text-right\",
+	\"juqinghou\": \"</a>\",
 
 	//播放集数截取部分
 	\"bfshifouercijiequ\": \"0\",
@@ -2914,39 +2914,9 @@
 	\"bflianjieqian\": \"href=\\\"\",
 	\"bflianjiehou\": \"\\\"\",
 	\"bfqianzhui\": \"空\",
-	\"bfhouzhui\": \"空\"
-	}"},
+	\"bfhouzhui\": \"空\"}"},
 
-{"key": "csp_xBPQ_黄仓库","name": "黄仓库","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": 
-	"{
-	\"站名\":\"黄仓库\",
-	\"主页url\":\"http://fshsck.cc/\",
-	\"数组\":\"class=\\\"stui-vodlist__box&&</div>\",
-	\"图片\":\"data-original=\\\"&&\\\"\",
-	\"标题\":\"title=\\\"&&\\\"\",
-	\"链接\":\"href=\\\"&&\\\"\",
-	\"副标题\":\"<span class=\\\"pic-text text-right\\\">&&</span>\",
-	\"状态\":\"状态：&&</p>\",
-	\"导演\":\"导演：&&</p>\",
-	\"主演\":\"主演：&&</p>\",
-	\"简介\":\"简介：&&</p>\",
-	\"搜索url\": \"http://fshsck.cc/vodsearch/-------------.html?wd={wd}&submit=\",
-	\"搜索模式\":\"0\",
-	\"搜索数组\":\"<li>&&</li>\",
-	\"搜索图片\":\"data-original=\\\"&&\\\"\",
-	\"搜索标题\":\"title=\\\"&&\\\"\",
-	\"搜索链接\":\"href=\\\"&&\\\"\",
-	\"播放二次截取\": \"<div class=\\\"stui-vodlist__detail\\\">&&</div>\",
-	\"播放数组\": \"<h4 class=\\\"title\\\"&&</h4>\",
-	\"列表二次截取\": \"\",
-	\"播放列表\": \"<a&&/a>\",
-	\"播放标题\": \">&&<\",
-	\"播放链接\": \"href=\\\"&&\\\"\",
-	\"免嗅\":\"0\",
-	\"嗅探词\":\".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma\",
-	\"分类\":\"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22\",
-	\"分类url\":\"http://fshsck.cc/vodtype/{cateId}-{catePg}/pjax/YES.html\"
-	}" },
+
 	
 {"key": "csp_xf_18av","name": "️18av","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": 
 	"{
@@ -4003,7 +3973,15 @@
 "filterable":0
 },
 
-
+{
+"key":"热巴资源",
+"name":"热巴资源",
+"type":1,
+"api":"http://reba.aishunxs.com/api.php/provide/vod/",
+"searchable":0,
+"quickSearch":0,
+"filterable":0
+},
 
 {
 "key":"*皇冠资源",
