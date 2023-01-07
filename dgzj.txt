@@ -1,37 +1,3 @@
-$canais,#genre#
-Asia 1pon-1 HD,http://api.magiaiptv.com/live/800379/268963/p2_asia_1pon-1_hd264
-Asia 1pon-2 HD+,http://api.magiaiptv.com/live/800379/268963/p3_asia_1pon-2_hd265
-Asia 1pon-3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_1pon_uhd_265
-Asia Carib UHD,http://api.magiaiptv.com/live/800379/268963/p1_asia_carib_uhd_265
-Asia Heyzo1 HD,http://api.magiaiptv.com/live/800379/268963/p1_asia_heyzo1_hd_264
-Asia Heyzo2 HD+,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzohd_265
-Asia Heyzo3 UHD,http://api.magiaiptv.com/live/800379/268963/p1_asiaheyzouhd_265
-Asia Tokyo Hot1,http://api.magiaiptv.com/live/800379/268963/p1_asia_tokyo_hot1_264
-Asia Tokyo Hot2,http://api.magiaiptv.com/live/800379/268963/p1_tokyohot_264
-Blue Hustler,http://api.magiaiptv.com/live/800379/268963/p1_cr_hustler_264
-Brazzers TV,http://api.magiaiptv.com/live/800379/268963/p2_cr_brazzers_264
-Dorcel TV HD,http://api.magiaiptv.com/live/800379/268963/p1_cr_sct6_264
-Europe Female sex,http://api.magiaiptv.com/live/800379/268963/p1_europe_female_sex_264
-Europe SEXY1 HD+,http://api.magiaiptv.com/live/800379/268963/p1_us-euro_sexy1_hd_265
-Europe SEXY2 HD+,http://api.magiaiptv.com/live/800379/268963/p1_us-euro_sexy2_hd_265
-Europe SEXY3 HD,http://api.magiaiptv.com/live/800379/268963/p1_us-euro_sexy3_hd_264
-Europe SEXY4 HD+,http://api.magiaiptv.com/live/800379/268963/p1_europe_sEXY4_hD_265
-Europe SEXY5 HD+,http://api.magiaiptv.com/live/800379/268963/p1_europe_sEXY5_hD_265
-Europe SEXY6 HD,http://api.magiaiptv.com/live/800379/268963/p1_europe_sEXY6_hD_264
-Europe SEXY7 HD,http://api.magiaiptv.com/live/800379/268963/p1_europe_sEXY7_hD_264
-Europe WowGirls HD+,http://api.magiaiptv.com/live/800379/268963/p1_wowgirlshd_265
-Hustler HD,http://api.magiaiptv.com/live/800379/268963/p2_cr_hustlerhd_264
-Japan Nyokei Kazoku,http://api.magiaiptv.com/live/800379/268963/p1_japan_nyokei_kazoku_264
-Playboy,http://api.magiaiptv.com/live/800379/268963/p3_Playboy_264
-PLAYBOY ES,http://api.magiaiptv.com/live/800379/268963/p2_cr_playbox_e_264
-Private TV HD,http://api.magiaiptv.com/live/800379/268963/p1_cr_fl_264
-Redlight HD,http://api.magiaiptv.com/live/800379/268963/p1_cr_redlight_264
-SEXTREME,http://api.magiaiptv.com/live/800379/268963/p2_cr_sextreme_264
-SEXY HOT,http://api.magiaiptv.com/live/800379/268963/p2_cr_sexy_hot_264
-VENUS,http://api.magiaiptv.com/live/800379/268963/m1_cr_venus_720p
-Vivid Red HD,http://api.magiaiptv.com/live/800379/268963/p2_cr_sct7_264
-Vivid Touch,http://api.magiaiptv.com/live/800379/268963/p2_cr_sct5_264
-
 $CINE,#genre#
 Alba XXX 1,http://a1.3frpp.top/qw643/654grth5r/2056
 Alba XXX 5,http://a1.3frpp.top/qw643/654grth5r/2060
