@@ -1,20 +1,20 @@
 {"urls": [
  
-//公开自用大佬源（非常稳定）：
+//公开自用大佬源（非常稳定）
 //猫影视懒人版-喵大神【微信公众号：太阳视界】
 {"url":"http://miaotvs.cn/meow","name":"猫影视懒人版-喵大神"},
-{"url": "http://miaotvs.cn/osc", "name": "猫影视/太阳视界家庭版线路"},
-{"url":"http://111.67.196.181/mtv/meow.txt","name": "太阳线路"},
+{"url":"http://miaotvs.cn/osc", "name":"猫影视/太阳视界家庭版线路"},
+{"url":"http://111.67.196.181/mtv/meow.txt","name":"太阳线路"},
 
-{"url": "https://cdn.staticaly.com/gh/YuanHsing/freed/master/TVBox/meow.json","name":"YuanHsing"},
-{"url": "https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"YuanHsing副线"},
-{"url": "https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json","name":"YuanHsing副线2"},
+{"url":"https://cdn.staticaly.com/gh/YuanHsing/freed/master/TVBox/meow.json","name":"YuanHsing"},
+{"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"YuanHsing副线"},
+{"url":"https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json","name":"YuanHsing副线2"},
 
 {"url":"https://hutool.ml/tang","name": "唐三接口"},
 
 {"url":"https://raw.iqiq.io/liu673cn/box/main/m.json","name": "老刘备接口"},
-{"url": "https://raw.fastgit.org/liu673cn/box/main/m.json","name": "老刘备线路"},
-{"url": "https://raw.liucn.cc/box/m.json","name": "老刘备副线"},
+{"url":"https://raw.fastgit.org/liu673cn/box/main/m.json","name": "老刘备线路"},
+{"url":"https://raw.liucn.cc/box/m.json","name": "老刘备副线"},
 
 //月光宝盒BOX内置接口1012【有PY源】【微信公众号：月光宝盒BOX】
 { "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json", "name": "月光宝盒" },	    
