@@ -3,12 +3,12 @@
 //公开自用大佬源（非常稳定）
 //猫影视懒人版-喵大神【微信公众号：太阳视界】
 {"url":"http://miaotvs.cn/meow","name":"猫影视懒人版-喵大神"},
-{"url":"http://miaotvs.cn/osc", "name":"猫影视/太阳视界家庭版线路"},
+//{"url":"http://miaotvs.cn/osc", "name":"猫影视/太阳视界家庭版线路"},
 {"url":"http://111.67.196.181/mtv/meow.txt","name":"太阳线路"},
 
 {"url":"https://cdn.staticaly.com/gh/YuanHsing/freed/master/TVBox/meow.json","name":"YuanHsing"},
 {"url":"https://freed.yuanhsing.cf/TVBox/meowcf.json","name":"YuanHsing副线"},
-{"url":"https://github.com/YuanHsing/freed/raw/master/TVBox/meow.json","name":"YuanHsing副线2"},
+
 
 {"url":"https://hutool.ml/tang","name": "唐三接口"},
 
@@ -21,8 +21,8 @@
 //吾爱
 //{ "url": "http://52bsj.vip:98/wuaihouse", "name": "吾爱仓库" }, 	    
 //【微信公众号：吾爱有三日月与卿，回复接口】【宝盒优质线路/月光宝盒推荐线路】
-{"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "月光宝盒接口"},
-{"url":"http://52bsj.vip:98/wuai","name": "吾爱接口"},
+//{"url":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name": "月光宝盒接口"},
+//{"url":"http://52bsj.vip:98/wuai","name": "吾爱接口"},
 //{"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0","name":"吾爱推荐"},
 //{"url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0","name":"哔哩接口"},
 //{"url": "http://52bsj.vip:81/api/v3/file/get/45055/alist.json?sign=5hJ60J-4XMmtamakqYzTiaX_8-1vwxpGeN0WcRVDsh8%3D%3A0","name":"网盘+alist接口"},
@@ -49,8 +49,7 @@
 
 //应用多多【微信公众号：应用多多，回复接口】
 {"url": "https://yydsys.top/duo/v.json","name":"应用多多"},
-{"url":"https://gitlab.com/duomv/duo/-/raw/main/v.json","name": "应用多多接口1"},
-{"url":"https:https://gitlab.com/duomv/duo/-/raw/main/m.json","name": "应用多多接口2"},
+
 
 //神器每日推送【微信公众号：神器每日推送】
 {"url": "https://神器每日推送.tk/pz.json","name":"神器每日推送线路"},
@@ -60,7 +59,6 @@
 
 {"url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/020102.json", "name": "佰欣园主线" }, 
 {"url": "https://ghproxy.com/http://raw.github.com/chengxueli818913/maoTV/main/44.txt", "name": "佰欣园副线" }, 
-{"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/新建 文本文档8.txt","name": "佰欣园线路"},
 
 {"url": "https://kebedd69.github.io/TVbox-interface/%E7%94%9C%E8%9C%9C.json","name":"甜蜜线路"},
 
@@ -127,7 +125,6 @@
    
 //以下**接口：
 {"url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/vip.json","name": "VIP"},
-{"url": "http://52bsj.vip:98/18dxwoai","name": "52-18"},
 {"url": "https://raw.iqiq.io/paopaoqing/dgzj/main/ceshi.json","name":"my"}
 
     ]
